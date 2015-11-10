@@ -3405,3 +3405,2659 @@ Cannot render console from 116.105.65.7! Allowed networks: 127.0.0.1, ::1, 127.0
 
 Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 116.105.65.7 at 2015-11-08 14:54:33 +0000
 Cannot render console from 116.105.65.7! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/" for 173.252.74.97 at 2015-11-08 15:00:32 +0000
+Cannot render console from 173.252.74.97! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as */*
+  Rendered pages/index.html.erb within layouts/application (0.8ms)
+  Rendered layouts/_nav_guest.html.erb (1.1ms)
+  Rendered layouts/_nav.html.erb (11.2ms)
+Completed 200 OK in 220ms (Views: 219.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 173.252.114.119 at 2015-11-08 15:00:35 +0000
+Cannot render console from 173.252.114.119! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as */*
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_nav_guest.html.erb (0.4ms)
+  Rendered layouts/_nav.html.erb (5.8ms)
+Completed 200 OK in 276ms (Views: 275.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap/tab.self-122235057fbd4c6c7da377d59dc58f47b44cb1088a2e38e6ee6ce9d8ac29a26a.js?body=1" for 173.252.114.117 at 2015-11-08 15:00:36 +0000
+Cannot render console from 173.252.114.117! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 173.252.114.119 at 2015-11-08 15:00:36 +0000
+Cannot render console from 173.252.114.119! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/affix.self-d2b642d8fbfc1d7041e2edefd66683ada567a980789dcd6f94fddda0b33408b5.js?body=1" for 173.252.114.119 at 2015-11-08 15:00:36 +0000
+Cannot render console from 173.252.114.119! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 173.252.114.112 at 2015-11-08 15:00:36 +0000
+Cannot render console from 173.252.114.112! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/popover.self-77d8e3a2499c1104ef146396a68b82469ee2bdb365199b874694698d10405e9a.js?body=1" for 173.252.114.119 at 2015-11-08 15:00:36 +0000
+Cannot render console from 173.252.114.119! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 173.252.114.119 at 2015-11-08 15:00:36 +0000
+Cannot render console from 173.252.114.119! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 173.252.114.117 at 2015-11-08 15:00:36 +0000
+Cannot render console from 173.252.114.117! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/tooltip.self-11cf547be953f25f511cec668f6690473fd97b2f65502e4032f4030999a3f0c3.js?body=1" for 173.252.114.116 at 2015-11-08 15:00:36 +0000
+Cannot render console from 173.252.114.116! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/button.self-a6cb16785434acb365ae426aef9f1fce05ed553cae7a965e4471c3da71509175.js?body=1" for 173.252.114.118 at 2015-11-08 15:00:36 +0000
+Cannot render console from 173.252.114.118! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/alert.self-a29e91e8cd3ddaba9bbc466901d53ec2127e9256b9b941905d525a3a716bd1a5.js?body=1" for 173.252.114.113 at 2015-11-08 15:00:36 +0000
+Cannot render console from 173.252.114.113! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 173.252.114.116 at 2015-11-08 15:00:36 +0000
+Cannot render console from 173.252.114.116! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/modal.self-72f95ffa1071297725a9ac91989693d56d1abf23f441a47455073b0da2857a5b.js?body=1" for 173.252.114.113 at 2015-11-08 15:00:36 +0000
+Cannot render console from 173.252.114.113! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 173.252.114.112 at 2015-11-08 15:00:36 +0000
+Cannot render console from 173.252.114.112! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/carousel.self-57eb8422043cf0a85b7a9dc6843916eb0a3e35b419c7798a5eb254b918997631.js?body=1" for 173.252.114.112 at 2015-11-08 15:00:36 +0000
+Cannot render console from 173.252.114.112! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/scrollspy.self-a155b9d4b2f978905f0326c0f6635e1134fe91c6bfbfcbad079fa24a9fef2b0e.js?body=1" for 173.252.114.112 at 2015-11-08 15:00:36 +0000
+Cannot render console from 173.252.114.112! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/transition.self-09ff30b1e8a93d1f7728b9855f55d9c9d8d5734c8861e0d8139994e50944572a.js?body=1" for 173.252.114.116 at 2015-11-08 15:00:36 +0000
+Cannot render console from 173.252.114.116! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/dropdown.self-9314126777c6be5443e37ea7f7967d7914d72b3e60449ba50edc967446373059.js?body=1" for 173.252.114.113 at 2015-11-08 15:00:36 +0000
+Cannot render console from 173.252.114.113! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/collapse.self-7dc8bfbc2fbfabd2bad62c58ff8ffeaf8f20fb87c7ca6cd35f06d4dc19632587.js?body=1" for 173.252.114.112 at 2015-11-08 15:00:36 +0000
+Cannot render console from 173.252.114.112! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/" for 116.105.65.7 at 2015-11-08 15:00:48 +0000
+Cannot render console from 116.105.65.7! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_nav_guest.html.erb (0.8ms)
+  Rendered layouts/_nav.html.erb (2.3ms)
+Completed 200 OK in 170ms (Views: 169.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 173.252.88.88 at 2015-11-08 15:01:11 +0000
+Cannot render console from 173.252.88.88! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as */*
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_nav_guest.html.erb (0.4ms)
+  Rendered layouts/_nav.html.erb (6.8ms)
+Completed 200 OK in 234ms (Views: 233.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 42.113.253.169 at 2015-11-08 15:01:13 +0000
+Cannot render console from 42.113.253.169! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_nav_guest.html.erb (0.3ms)
+  Rendered layouts/_nav.html.erb (1.7ms)
+Completed 200 OK in 249ms (Views: 248.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 116.105.65.7 at 2015-11-08 15:01:13 +0000
+Cannot render console from 116.105.65.7! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_nav_guest.html.erb (0.3ms)
+  Rendered layouts/_nav.html.erb (1.7ms)
+Completed 200 OK in 186ms (Views: 185.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e67db36b6b153dc5458de55838ad301937e9ecbb0d8228272917550f68f1256f.css?body=1" for 42.113.253.169 at 2015-11-08 15:01:13 +0000
+Cannot render console from 42.113.253.169! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 42.113.253.169 at 2015-11-08 15:01:13 +0000
+Cannot render console from 42.113.253.169! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/affix.self-d2b642d8fbfc1d7041e2edefd66683ada567a980789dcd6f94fddda0b33408b5.js?body=1" for 42.113.253.169 at 2015-11-08 15:01:13 +0000
+Cannot render console from 42.113.253.169! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/alert.self-a29e91e8cd3ddaba9bbc466901d53ec2127e9256b9b941905d525a3a716bd1a5.js?body=1" for 42.113.253.169 at 2015-11-08 15:01:13 +0000
+Cannot render console from 42.113.253.169! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/button.self-a6cb16785434acb365ae426aef9f1fce05ed553cae7a965e4471c3da71509175.js?body=1" for 42.113.253.169 at 2015-11-08 15:01:13 +0000
+Cannot render console from 42.113.253.169! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/carousel.self-57eb8422043cf0a85b7a9dc6843916eb0a3e35b419c7798a5eb254b918997631.js?body=1" for 42.113.253.169 at 2015-11-08 15:01:13 +0000
+Cannot render console from 42.113.253.169! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/collapse.self-7dc8bfbc2fbfabd2bad62c58ff8ffeaf8f20fb87c7ca6cd35f06d4dc19632587.js?body=1" for 42.113.253.169 at 2015-11-08 15:01:13 +0000
+Cannot render console from 42.113.253.169! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/dropdown.self-9314126777c6be5443e37ea7f7967d7914d72b3e60449ba50edc967446373059.js?body=1" for 42.113.253.169 at 2015-11-08 15:01:14 +0000
+Cannot render console from 42.113.253.169! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/transition.self-09ff30b1e8a93d1f7728b9855f55d9c9d8d5734c8861e0d8139994e50944572a.js?body=1" for 42.113.253.169 at 2015-11-08 15:01:14 +0000
+Cannot render console from 42.113.253.169! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/scrollspy.self-a155b9d4b2f978905f0326c0f6635e1134fe91c6bfbfcbad079fa24a9fef2b0e.js?body=1" for 42.113.253.169 at 2015-11-08 15:01:14 +0000
+Cannot render console from 42.113.253.169! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/modal.self-72f95ffa1071297725a9ac91989693d56d1abf23f441a47455073b0da2857a5b.js?body=1" for 42.113.253.169 at 2015-11-08 15:01:14 +0000
+Cannot render console from 42.113.253.169! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/tooltip.self-11cf547be953f25f511cec668f6690473fd97b2f65502e4032f4030999a3f0c3.js?body=1" for 42.113.253.169 at 2015-11-08 15:01:14 +0000
+Cannot render console from 42.113.253.169! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/tab.self-122235057fbd4c6c7da377d59dc58f47b44cb1088a2e38e6ee6ce9d8ac29a26a.js?body=1" for 42.113.253.169 at 2015-11-08 15:01:14 +0000
+Cannot render console from 42.113.253.169! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/popover.self-77d8e3a2499c1104ef146396a68b82469ee2bdb365199b874694698d10405e9a.js?body=1" for 42.113.253.169 at 2015-11-08 15:01:14 +0000
+Cannot render console from 42.113.253.169! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 42.113.253.169 at 2015-11-08 15:01:14 +0000
+Cannot render console from 42.113.253.169! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/" for 116.105.65.7 at 2015-11-08 15:01:14 +0000
+Cannot render console from 116.105.65.7! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_nav_guest.html.erb (0.4ms)
+  Rendered layouts/_nav.html.erb (2.0ms)
+Completed 200 OK in 180ms (Views: 179.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 42.113.253.169 at 2015-11-08 15:01:14 +0000
+Cannot render console from 42.113.253.169! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 42.113.253.169 at 2015-11-08 15:01:14 +0000
+Cannot render console from 42.113.253.169! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 42.113.253.169 at 2015-11-08 15:01:14 +0000
+Cannot render console from 42.113.253.169! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 42.113.253.169 at 2015-11-08 15:01:14 +0000
+Cannot render console from 42.113.253.169! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/" for 116.105.65.7 at 2015-11-08 15:01:35 +0000
+Cannot render console from 116.105.65.7! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_nav_guest.html.erb (0.3ms)
+  Rendered layouts/_nav.html.erb (1.9ms)
+Completed 200 OK in 195ms (Views: 194.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 207.244.72.201 at 2015-11-08 15:01:48 +0000
+Cannot render console from 207.244.72.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_nav_guest.html.erb (0.3ms)
+  Rendered layouts/_nav.html.erb (1.9ms)
+Completed 200 OK in 205ms (Views: 204.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e67db36b6b153dc5458de55838ad301937e9ecbb0d8228272917550f68f1256f.css?body=1" for 207.244.72.201 at 2015-11-08 15:01:49 +0000
+Cannot render console from 207.244.72.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 207.244.72.201 at 2015-11-08 15:01:50 +0000
+Cannot render console from 207.244.72.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/affix.self-d2b642d8fbfc1d7041e2edefd66683ada567a980789dcd6f94fddda0b33408b5.js?body=1" for 207.244.72.201 at 2015-11-08 15:01:50 +0000
+Cannot render console from 207.244.72.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/alert.self-a29e91e8cd3ddaba9bbc466901d53ec2127e9256b9b941905d525a3a716bd1a5.js?body=1" for 207.244.72.201 at 2015-11-08 15:01:50 +0000
+Cannot render console from 207.244.72.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/carousel.self-57eb8422043cf0a85b7a9dc6843916eb0a3e35b419c7798a5eb254b918997631.js?body=1" for 207.244.72.201 at 2015-11-08 15:01:50 +0000
+Cannot render console from 207.244.72.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/button.self-a6cb16785434acb365ae426aef9f1fce05ed553cae7a965e4471c3da71509175.js?body=1" for 207.244.72.201 at 2015-11-08 15:01:50 +0000
+Cannot render console from 207.244.72.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/collapse.self-7dc8bfbc2fbfabd2bad62c58ff8ffeaf8f20fb87c7ca6cd35f06d4dc19632587.js?body=1" for 207.244.72.201 at 2015-11-08 15:01:51 +0000
+Cannot render console from 207.244.72.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/dropdown.self-9314126777c6be5443e37ea7f7967d7914d72b3e60449ba50edc967446373059.js?body=1" for 207.244.72.201 at 2015-11-08 15:01:51 +0000
+Cannot render console from 207.244.72.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/tab.self-122235057fbd4c6c7da377d59dc58f47b44cb1088a2e38e6ee6ce9d8ac29a26a.js?body=1" for 207.244.72.201 at 2015-11-08 15:01:51 +0000
+Cannot render console from 207.244.72.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/transition.self-09ff30b1e8a93d1f7728b9855f55d9c9d8d5734c8861e0d8139994e50944572a.js?body=1" for 207.244.72.201 at 2015-11-08 15:01:51 +0000
+Cannot render console from 207.244.72.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/scrollspy.self-a155b9d4b2f978905f0326c0f6635e1134fe91c6bfbfcbad079fa24a9fef2b0e.js?body=1" for 207.244.72.201 at 2015-11-08 15:01:51 +0000
+Cannot render console from 207.244.72.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/modal.self-72f95ffa1071297725a9ac91989693d56d1abf23f441a47455073b0da2857a5b.js?body=1" for 207.244.72.201 at 2015-11-08 15:01:52 +0000
+Cannot render console from 207.244.72.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/tooltip.self-11cf547be953f25f511cec668f6690473fd97b2f65502e4032f4030999a3f0c3.js?body=1" for 207.244.72.201 at 2015-11-08 15:01:52 +0000
+Cannot render console from 207.244.72.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/popover.self-77d8e3a2499c1104ef146396a68b82469ee2bdb365199b874694698d10405e9a.js?body=1" for 207.244.72.201 at 2015-11-08 15:01:52 +0000
+Cannot render console from 207.244.72.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 207.244.72.201 at 2015-11-08 15:01:52 +0000
+Cannot render console from 207.244.72.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 207.244.72.201 at 2015-11-08 15:01:52 +0000
+Cannot render console from 207.244.72.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 207.244.72.201 at 2015-11-08 15:01:52 +0000
+Cannot render console from 207.244.72.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 207.244.72.201 at 2015-11-08 15:01:53 +0000
+Cannot render console from 207.244.72.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 207.244.72.201 at 2015-11-08 15:01:53 +0000
+Cannot render console from 207.244.72.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/" for 207.244.72.201 at 2015-11-08 15:01:58 +0000
+Cannot render console from 207.244.72.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_nav_guest.html.erb (0.4ms)
+  Rendered layouts/_nav.html.erb (2.4ms)
+Completed 200 OK in 235ms (Views: 234.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 42.113.253.169 at 2015-11-08 15:02:03 +0000
+Cannot render console from 42.113.253.169! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_nav_guest.html.erb (0.3ms)
+  Rendered layouts/_nav.html.erb (2.5ms)
+Completed 200 OK in 282ms (Views: 281.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 14.169.152.165 at 2015-11-08 15:02:11 +0000
+Cannot render console from 14.169.152.165! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_nav_guest.html.erb (0.4ms)
+  Rendered layouts/_nav.html.erb (2.2ms)
+Completed 200 OK in 262ms (Views: 261.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e67db36b6b153dc5458de55838ad301937e9ecbb0d8228272917550f68f1256f.css?body=1" for 14.169.152.165 at 2015-11-08 15:02:11 +0000
+Cannot render console from 14.169.152.165! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/alert.self-a29e91e8cd3ddaba9bbc466901d53ec2127e9256b9b941905d525a3a716bd1a5.js?body=1" for 14.169.152.165 at 2015-11-08 15:02:12 +0000
+Cannot render console from 14.169.152.165! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/button.self-a6cb16785434acb365ae426aef9f1fce05ed553cae7a965e4471c3da71509175.js?body=1" for 14.169.152.165 at 2015-11-08 15:02:12 +0000
+Cannot render console from 14.169.152.165! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/affix.self-d2b642d8fbfc1d7041e2edefd66683ada567a980789dcd6f94fddda0b33408b5.js?body=1" for 14.169.152.165 at 2015-11-08 15:02:12 +0000
+Cannot render console from 14.169.152.165! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/carousel.self-57eb8422043cf0a85b7a9dc6843916eb0a3e35b419c7798a5eb254b918997631.js?body=1" for 14.169.152.165 at 2015-11-08 15:02:12 +0000
+Cannot render console from 14.169.152.165! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 14.169.152.165 at 2015-11-08 15:02:12 +0000
+Cannot render console from 14.169.152.165! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/dropdown.self-9314126777c6be5443e37ea7f7967d7914d72b3e60449ba50edc967446373059.js?body=1" for 14.169.152.165 at 2015-11-08 15:02:12 +0000
+Cannot render console from 14.169.152.165! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/collapse.self-7dc8bfbc2fbfabd2bad62c58ff8ffeaf8f20fb87c7ca6cd35f06d4dc19632587.js?body=1" for 14.169.152.165 at 2015-11-08 15:02:12 +0000
+Cannot render console from 14.169.152.165! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/tab.self-122235057fbd4c6c7da377d59dc58f47b44cb1088a2e38e6ee6ce9d8ac29a26a.js?body=1" for 14.169.152.165 at 2015-11-08 15:02:12 +0000
+Cannot render console from 14.169.152.165! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/transition.self-09ff30b1e8a93d1f7728b9855f55d9c9d8d5734c8861e0d8139994e50944572a.js?body=1" for 14.169.152.165 at 2015-11-08 15:02:12 +0000
+Cannot render console from 14.169.152.165! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/scrollspy.self-a155b9d4b2f978905f0326c0f6635e1134fe91c6bfbfcbad079fa24a9fef2b0e.js?body=1" for 14.169.152.165 at 2015-11-08 15:02:12 +0000
+Cannot render console from 14.169.152.165! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/modal.self-72f95ffa1071297725a9ac91989693d56d1abf23f441a47455073b0da2857a5b.js?body=1" for 14.169.152.165 at 2015-11-08 15:02:12 +0000
+Cannot render console from 14.169.152.165! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/tooltip.self-11cf547be953f25f511cec668f6690473fd97b2f65502e4032f4030999a3f0c3.js?body=1" for 14.169.152.165 at 2015-11-08 15:02:12 +0000
+Cannot render console from 14.169.152.165! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/popover.self-77d8e3a2499c1104ef146396a68b82469ee2bdb365199b874694698d10405e9a.js?body=1" for 14.169.152.165 at 2015-11-08 15:02:12 +0000
+Cannot render console from 14.169.152.165! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 14.169.152.165 at 2015-11-08 15:02:12 +0000
+Cannot render console from 14.169.152.165! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 14.169.152.165 at 2015-11-08 15:02:12 +0000
+Cannot render console from 14.169.152.165! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 14.169.152.165 at 2015-11-08 15:02:12 +0000
+Cannot render console from 14.169.152.165! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 14.169.152.165 at 2015-11-08 15:02:12 +0000
+Cannot render console from 14.169.152.165! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 14.169.152.165 at 2015-11-08 15:02:12 +0000
+Cannot render console from 14.169.152.165! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/" for 14.169.152.165 at 2015-11-08 15:02:21 +0000
+Cannot render console from 14.169.152.165! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_nav_guest.html.erb (0.4ms)
+  Rendered layouts/_nav.html.erb (1.7ms)
+Completed 200 OK in 187ms (Views: 186.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for 42.113.253.169 at 2015-11-08 15:03:55 +0000
+Cannot render console from 42.113.253.169! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Devise::SessionsController#new as HTML
+  Rendered devise/shared/_links.html.erb (0.4ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (5.5ms)
+  Rendered layouts/_nav_guest.html.erb (0.4ms)
+  Rendered layouts/_nav.html.erb (2.0ms)
+Completed 200 OK in 319ms (Views: 314.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/users/sign_in" for 42.113.253.169 at 2015-11-08 15:06:42 +0000
+Cannot render console from 42.113.253.169! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Devise::SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"AyExqlzhZQGapg6/3+cJXN9/opgsysnRUj3cd4ip5jOlo6SiLPpaCa5hcBn59YbX62lC/Rba6VpV8VKisTa+BA==", "user"=>{"email"=>"phamquocsinh@gmail.com", "password"=>"[FILTERED]", "remember_me"=>"0"}, "commit"=>"Log in"}
+  [1m[35mUser Load (7.6ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."email" = ?  ORDER BY "users"."id" ASC LIMIT 1  [["email", "phamquocsinh@gmail.com"]]
+Completed 401 Unauthorized in 13ms (ActiveRecord: 7.6ms)
+Processing by Devise::SessionsController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"AyExqlzhZQGapg6/3+cJXN9/opgsysnRUj3cd4ip5jOlo6SiLPpaCa5hcBn59YbX62lC/Rba6VpV8VKisTa+BA==", "user"=>{"email"=>"phamquocsinh@gmail.com", "password"=>"[FILTERED]", "remember_me"=>"0"}, "commit"=>"Log in"}
+  Rendered devise/shared/_links.html.erb (0.4ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (5.2ms)
+  Rendered layouts/_nav_guest.html.erb (0.3ms)
+  Rendered layouts/_nav.html.erb (1.8ms)
+Completed 200 OK in 269ms (Views: 192.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for 42.113.253.169 at 2015-11-08 15:06:44 +0000
+Cannot render console from 42.113.253.169! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Devise::RegistrationsController#new as HTML
+  Rendered devise/shared/_links.html.erb (0.4ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (5.4ms)
+  Rendered layouts/_nav_guest.html.erb (0.3ms)
+  Rendered layouts/_nav.html.erb (1.5ms)
+Completed 200 OK in 313ms (Views: 311.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/users" for 42.113.253.169 at 2015-11-08 15:06:55 +0000
+Cannot render console from 42.113.253.169! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Devise::RegistrationsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"8eNzVry81TuxQDxoHwH2JipfHkWlUSMePiJBW5mNnDdXYeZezKfqM4WHQs45E3mtHkn+IJ9BA5U57s+OoBLEAA==", "user"=>{"email"=>"phamquocsinh@gmail.com", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]"}, "commit"=>"Sign up"}
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35mUser Exists (1.8ms)[0m  SELECT  1 AS one FROM "users" WHERE "users"."email" = 'phamquocsinh@gmail.com' LIMIT 1
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  Rendered devise/shared/_links.html.erb (0.2ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (4.3ms)
+  Rendered layouts/_nav_guest.html.erb (0.4ms)
+  Rendered layouts/_nav.html.erb (2.0ms)
+Completed 200 OK in 322ms (Views: 209.8ms | ActiveRecord: 2.2ms)
+
+
+Started POST "/users" for 42.113.253.169 at 2015-11-08 15:07:06 +0000
+Cannot render console from 42.113.253.169! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Devise::RegistrationsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"E5cWX1MyR7xjJcQEGa1hfQ18646LlSIYJWQc/cBEgiq1FYNXIyl4tFfiuqI/v+72OWoL67GFApMiqJIo+dvaHQ==", "user"=>{"email"=>"phamquocsinh@gmail.com", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]"}, "commit"=>"Sign up"}
+  [1m[35m (0.2ms)[0m  begin transaction
+  [1m[36mUser Exists (0.3ms)[0m  [1mSELECT  1 AS one FROM "users" WHERE "users"."email" = 'phamquocsinh@gmail.com' LIMIT 1[0m
+  [1m[35mSQL (1.0ms)[0m  INSERT INTO "users" ("email", "encrypted_password", "created_at", "updated_at") VALUES (?, ?, ?, ?)  [["email", "phamquocsinh@gmail.com"], ["encrypted_password", "$2a$10$oxFhMMLduMh.Q8jcTK2Z7./t0KXeTZXfQa0pAWu/6veyqrCGBhzLm"], ["created_at", "2015-11-08 15:07:06.999780"], ["updated_at", "2015-11-08 15:07:06.999780"]]
+  [1m[36m (10.0ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.4ms)[0m  [1mUPDATE "users" SET "last_sign_in_at" = ?, "current_sign_in_at" = ?, "last_sign_in_ip" = ?, "current_sign_in_ip" = ?, "sign_in_count" = ?, "updated_at" = ? WHERE "users"."id" = ?[0m  [["last_sign_in_at", "2015-11-08 15:07:07.015654"], ["current_sign_in_at", "2015-11-08 15:07:07.015654"], ["last_sign_in_ip", "42.113.253.169"], ["current_sign_in_ip", "42.113.253.169"], ["sign_in_count", 1], ["updated_at", "2015-11-08 15:07:07.016675"], ["id", 2]]
+  [1m[35m (7.9ms)[0m  commit transaction
+Redirected to https://flutter-focoda1.c9users.io/
+Completed 302 Found in 114ms (ActiveRecord: 19.8ms)
+
+
+Started GET "/" for 42.113.253.169 at 2015-11-08 15:07:07 +0000
+Cannot render console from 42.113.253.169! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (0.2ms)
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 2]]
+  Rendered layouts/_nav_user.html.erb (0.5ms)
+  Rendered layouts/_nav.html.erb (4.7ms)
+Completed 200 OK in 186ms (Views: 184.8ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/" for 116.98.14.205 at 2015-11-09 11:53:12 +0000
+Cannot render console from 116.98.14.205! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (0.2ms)
+  Rendered layouts/_nav_guest.html.erb (0.5ms)
+  Rendered layouts/_nav.html.erb (3.2ms)
+Completed 200 OK in 578ms (Views: 575.9ms | ActiveRecord: 0.0ms)
+  [1m[36mUser Load (0.7ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 1]]
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Migrating to AddUsernameToUsers (20151109120154)
+  [1m[35m (0.2ms)[0m  begin transaction
+  [1m[36mSQL (0.4ms)[0m  [1mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20151109120154"]]
+  [1m[35m (9.9ms)[0m  commit transaction
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.2ms)[0m              SELECT sql
+            FROM sqlite_master
+            WHERE name='index_users_on_reset_password_token' AND type='index'
+            UNION ALL
+            SELECT sql
+            FROM sqlite_temp_master
+            WHERE name='index_users_on_reset_password_token' AND type='index'
+
+  [1m[36m (0.2ms)[0m  [1m            SELECT sql
+            FROM sqlite_master
+            WHERE name='index_users_on_email' AND type='index'
+            UNION ALL
+            SELECT sql
+            FROM sqlite_temp_master
+            WHERE name='index_users_on_email' AND type='index'
+[0m
+
+
+Started GET "/users/sign_in" for 116.98.14.205 at 2015-11-09 14:50:09 +0000
+Cannot render console from 116.98.14.205! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[35mActiveRecord::SchemaMigration Load (0.2ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+Processing by Devise::SessionsController#new as HTML
+  Rendered devise/shared/_links.html.erb (0.6ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (12.3ms)
+  Rendered layouts/_nav_guest.html.erb (0.5ms)
+  Rendered layouts/_nav.html.erb (3.6ms)
+Completed 200 OK in 276ms (Views: 240.6ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/users/sign_up" for 116.98.14.205 at 2015-11-09 14:50:13 +0000
+Cannot render console from 116.98.14.205! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Devise::RegistrationsController#new as HTML
+  Rendered devise/registrations/new.html.erb within layouts/application (24.0ms)
+Completed 500 Internal Server Error in 31ms (ActiveRecord: 0.0ms)
+
+SyntaxError (/home/ubuntu/workspace/app/views/devise/registrations/new.html.erb:9: syntax error, unexpected '<', expecting ')'
+  </div>
+   ^
+unmatched close parenthesis: /div>
+  <div class="field">
+    <%= f.label :email );@output_buffer.safe_append='<br /
+/home/ubuntu/workspace/app/views/devise/registrations/new.html.erb:13: syntax error, unexpected '<', expecting ')'
+  </div>
+   ^
+/home/ubuntu/workspace/app/views/devise/registrations/new.html.erb:19: syntax error, unexpected tREGEXP_BEG, expecting keyword_do or '{' or '('
+...utput_buffer.safe_append='<br />
+...                               ^
+/home/ubuntu/workspace/app/views/devise/registrations/new.html.erb:21: unknown regexp options - dv
+/home/ubuntu/workspace/app/views/devise/registrations/new.html.erb:23: syntax error, unexpected '<'
+  <div class="field">
+   ^
+/home/ubuntu/workspace/app/views/devise/registrations/new.html.erb:24: syntax error, unexpected tREGEXP_BEG, expecting keyword_do or '{' or '('
+...utput_buffer.safe_append='<br />
+...                               ^
+/home/ubuntu/workspace/app/views/devise/registrations/new.html.erb:26: unknown regexp options - dv
+/home/ubuntu/workspace/app/views/devise/registrations/new.html.erb:28: syntax error, unexpected '<'
+  <div class="actions">
+   ^
+/home/ubuntu/workspace/app/views/devise/registrations/new.html.erb:30: syntax error, unexpected '<', expecting ')'
+  </div>
+   ^
+/home/ubuntu/workspace/app/views/devise/registrations/new.html.erb:33: unknown regexp options - hard
+end pattern with unmatched parenthesis: /div>
+'.freeze; end 
+@output_buffer.safe_append='
+'.freeze;@output_buffer.append=( render "devise/
+/home/ubuntu/workspace/app/views/devise/registrations/new.html.erb:33: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+...=( render "devise/shared/links" );@output_buffer.safe_append...
+...                               ^
+/home/ubuntu/workspace/app/views/devise/registrations/new.html.erb:33: unterminated string meets end of file):
+  app/views/devise/registrations/new.html.erb:9: syntax error, unexpected '<', expecting ')'
+  app/views/devise/registrations/new.html.erb:13: syntax error, unexpected '<', expecting ')'
+  app/views/devise/registrations/new.html.erb:19: syntax error, unexpected tREGEXP_BEG, expecting keyword_do or '{' or '('
+  app/views/devise/registrations/new.html.erb:21: unknown regexp options - dv
+  app/views/devise/registrations/new.html.erb:23: syntax error, unexpected '<'
+  app/views/devise/registrations/new.html.erb:24: syntax error, unexpected tREGEXP_BEG, expecting keyword_do or '{' or '('
+  app/views/devise/registrations/new.html.erb:26: unknown regexp options - dv
+  app/views/devise/registrations/new.html.erb:28: syntax error, unexpected '<'
+  app/views/devise/registrations/new.html.erb:30: syntax error, unexpected '<', expecting ')'
+  app/views/devise/registrations/new.html.erb:33: unknown regexp options - hard
+  app/views/devise/registrations/new.html.erb:33: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+  app/views/devise/registrations/new.html.erb:33: unterminated string meets end of file
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (26.3ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (9.5ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (5.2ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (91.0ms)
+
+
+Started GET "/users/sign_up" for 116.98.14.205 at 2015-11-09 14:50:14 +0000
+Cannot render console from 116.98.14.205! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Devise::RegistrationsController#new as HTML
+  Rendered devise/registrations/new.html.erb within layouts/application (2.1ms)
+Completed 500 Internal Server Error in 8ms (ActiveRecord: 0.0ms)
+
+SyntaxError (/home/ubuntu/workspace/app/views/devise/registrations/new.html.erb:9: syntax error, unexpected '<', expecting ')'
+  </div>
+   ^
+unmatched close parenthesis: /div>
+  <div class="field">
+    <%= f.label :email );@output_buffer.safe_append='<br /
+/home/ubuntu/workspace/app/views/devise/registrations/new.html.erb:13: syntax error, unexpected '<', expecting ')'
+  </div>
+   ^
+/home/ubuntu/workspace/app/views/devise/registrations/new.html.erb:19: syntax error, unexpected tREGEXP_BEG, expecting keyword_do or '{' or '('
+...utput_buffer.safe_append='<br />
+...                               ^
+/home/ubuntu/workspace/app/views/devise/registrations/new.html.erb:21: unknown regexp options - dv
+/home/ubuntu/workspace/app/views/devise/registrations/new.html.erb:23: syntax error, unexpected '<'
+  <div class="field">
+   ^
+/home/ubuntu/workspace/app/views/devise/registrations/new.html.erb:24: syntax error, unexpected tREGEXP_BEG, expecting keyword_do or '{' or '('
+...utput_buffer.safe_append='<br />
+...                               ^
+/home/ubuntu/workspace/app/views/devise/registrations/new.html.erb:26: unknown regexp options - dv
+/home/ubuntu/workspace/app/views/devise/registrations/new.html.erb:28: syntax error, unexpected '<'
+  <div class="actions">
+   ^
+/home/ubuntu/workspace/app/views/devise/registrations/new.html.erb:30: syntax error, unexpected '<', expecting ')'
+  </div>
+   ^
+/home/ubuntu/workspace/app/views/devise/registrations/new.html.erb:33: unknown regexp options - hard
+end pattern with unmatched parenthesis: /div>
+'.freeze; end 
+@output_buffer.safe_append='
+'.freeze;@output_buffer.append=( render "devise/
+/home/ubuntu/workspace/app/views/devise/registrations/new.html.erb:33: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+...=( render "devise/shared/links" );@output_buffer.safe_append...
+...                               ^
+/home/ubuntu/workspace/app/views/devise/registrations/new.html.erb:33: unterminated string meets end of file):
+  app/views/devise/registrations/new.html.erb:9: syntax error, unexpected '<', expecting ')'
+  app/views/devise/registrations/new.html.erb:13: syntax error, unexpected '<', expecting ')'
+  app/views/devise/registrations/new.html.erb:19: syntax error, unexpected tREGEXP_BEG, expecting keyword_do or '{' or '('
+  app/views/devise/registrations/new.html.erb:21: unknown regexp options - dv
+  app/views/devise/registrations/new.html.erb:23: syntax error, unexpected '<'
+  app/views/devise/registrations/new.html.erb:24: syntax error, unexpected tREGEXP_BEG, expecting keyword_do or '{' or '('
+  app/views/devise/registrations/new.html.erb:26: unknown regexp options - dv
+  app/views/devise/registrations/new.html.erb:28: syntax error, unexpected '<'
+  app/views/devise/registrations/new.html.erb:30: syntax error, unexpected '<', expecting ')'
+  app/views/devise/registrations/new.html.erb:33: unknown regexp options - hard
+  app/views/devise/registrations/new.html.erb:33: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+  app/views/devise/registrations/new.html.erb:33: unterminated string meets end of file
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (14.1ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (7.1ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.6ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (51.3ms)
+
+
+Started GET "/users/sign_up" for 116.98.14.205 at 2015-11-09 14:50:43 +0000
+Cannot render console from 116.98.14.205! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Devise::RegistrationsController#new as HTML
+  Rendered devise/registrations/new.html.erb within layouts/application (2.9ms)
+Completed 500 Internal Server Error in 9ms (ActiveRecord: 0.0ms)
+
+SyntaxError (/home/ubuntu/workspace/app/views/devise/registrations/new.html.erb:9: syntax error, unexpected '<', expecting ')'
+  </div>
+   ^
+unmatched close parenthesis: /div>
+  <div class="field">
+    <%= f.label :email );@output_buffer.safe_append='<br /
+/home/ubuntu/workspace/app/views/devise/registrations/new.html.erb:13: syntax error, unexpected '<', expecting ')'
+  </div>
+   ^
+/home/ubuntu/workspace/app/views/devise/registrations/new.html.erb:19: syntax error, unexpected tREGEXP_BEG, expecting keyword_do or '{' or '('
+...utput_buffer.safe_append='<br />
+...                               ^
+/home/ubuntu/workspace/app/views/devise/registrations/new.html.erb:21: unknown regexp options - dv
+/home/ubuntu/workspace/app/views/devise/registrations/new.html.erb:23: syntax error, unexpected '<'
+  <div class="field">
+   ^
+/home/ubuntu/workspace/app/views/devise/registrations/new.html.erb:24: syntax error, unexpected tREGEXP_BEG, expecting keyword_do or '{' or '('
+...utput_buffer.safe_append='<br />
+...                               ^
+/home/ubuntu/workspace/app/views/devise/registrations/new.html.erb:26: unknown regexp options - dv
+/home/ubuntu/workspace/app/views/devise/registrations/new.html.erb:28: syntax error, unexpected '<'
+  <div class="actions">
+   ^
+/home/ubuntu/workspace/app/views/devise/registrations/new.html.erb:30: syntax error, unexpected '<', expecting ')'
+  </div>
+   ^
+/home/ubuntu/workspace/app/views/devise/registrations/new.html.erb:33: unknown regexp options - hard
+end pattern with unmatched parenthesis: /div>
+'.freeze; end 
+@output_buffer.safe_append='
+'.freeze;@output_buffer.append=( render "devise/
+/home/ubuntu/workspace/app/views/devise/registrations/new.html.erb:33: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+...=( render "devise/shared/links" );@output_buffer.safe_append...
+...                               ^
+/home/ubuntu/workspace/app/views/devise/registrations/new.html.erb:33: unterminated string meets end of file):
+  app/views/devise/registrations/new.html.erb:9: syntax error, unexpected '<', expecting ')'
+  app/views/devise/registrations/new.html.erb:13: syntax error, unexpected '<', expecting ')'
+  app/views/devise/registrations/new.html.erb:19: syntax error, unexpected tREGEXP_BEG, expecting keyword_do or '{' or '('
+  app/views/devise/registrations/new.html.erb:21: unknown regexp options - dv
+  app/views/devise/registrations/new.html.erb:23: syntax error, unexpected '<'
+  app/views/devise/registrations/new.html.erb:24: syntax error, unexpected tREGEXP_BEG, expecting keyword_do or '{' or '('
+  app/views/devise/registrations/new.html.erb:26: unknown regexp options - dv
+  app/views/devise/registrations/new.html.erb:28: syntax error, unexpected '<'
+  app/views/devise/registrations/new.html.erb:30: syntax error, unexpected '<', expecting ')'
+  app/views/devise/registrations/new.html.erb:33: unknown regexp options - hard
+  app/views/devise/registrations/new.html.erb:33: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+  app/views/devise/registrations/new.html.erb:33: unterminated string meets end of file
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (22.0ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (4.7ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (55.1ms)
+
+
+Started GET "/users/sign_up" for 116.98.14.205 at 2015-11-09 14:51:03 +0000
+Cannot render console from 116.98.14.205! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Devise::RegistrationsController#new as HTML
+  Rendered devise/registrations/new.html.erb within layouts/application (6.4ms)
+Completed 500 Internal Server Error in 12ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (undefined method `username' for #<User:0x007f8e10043328>):
+     5:   
+     6:   <div class="field">
+     7:     <%= f.label :username %><br/>
+     8:     <%= f.text_field :username, autofocus: true %>
+     9:   </div>
+    10:   <div class="field">
+    11:     <%= f.label :email %><br />
+  app/views/devise/registrations/new.html.erb:8:in `block in _app_views_devise_registrations_new_html_erb___2666073175705127123_70124065392480'
+  app/views/devise/registrations/new.html.erb:3:in `_app_views_devise_registrations_new_html_erb___2666073175705127123_70124065392480'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (10.3ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (4.6ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.8ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (46.2ms)
+
+
+Started GET "/users/sign_up" for 116.98.14.205 at 2015-11-09 15:02:33 +0000
+Cannot render console from 116.98.14.205! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by Devise::RegistrationsController#new as HTML
+  Rendered devise/registrations/new.html.erb within layouts/application (55.3ms)
+Completed 500 Internal Server Error in 108ms (ActiveRecord: 0.8ms)
+
+ActionView::Template::Error (undefined method `username' for #<User:0x000000055af668>):
+     5:   
+     6:   <div class="field">
+     7:     <%= f.label :username %><br/>
+     8:     <%= f.text_field :username, autofocus: true %>
+     9:   </div>
+    10:   <div class="field">
+    11:     <%= f.label :email %><br />
+  app/views/devise/registrations/new.html.erb:8:in `block in _app_views_devise_registrations_new_html_erb___1084540349631027091_43498580'
+  app/views/devise/registrations/new.html.erb:3:in `_app_views_devise_registrations_new_html_erb___1084540349631027091_43498580'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (16.6ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (6.0ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (67.6ms)
+
+
+Started GET "/users/sign_up" for 116.98.14.205 at 2015-11-09 15:03:46 +0000
+Cannot render console from 116.98.14.205! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Devise::RegistrationsController#new as HTML
+  Rendered devise/registrations/new.html.erb within layouts/application (2.2ms)
+Completed 500 Internal Server Error in 10ms (ActiveRecord: 0.0ms)
+
+SyntaxError (/home/ubuntu/workspace/app/views/devise/registrations/new.html.erb:8: syntax error, unexpected tSYMBEG, expecting keyword_do or '{' or '('
+...xt_field :username, autofocus :true );@output_buffer.safe_ap...
+...                               ^):
+  app/views/devise/registrations/new.html.erb:8: syntax error, unexpected tSYMBEG, expecting keyword_do or '{' or '('
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (14.2ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (5.8ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.5ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (60.3ms)
+
+
+Started GET "/users/sign_up" for 116.98.14.205 at 2015-11-09 15:04:08 +0000
+Cannot render console from 116.98.14.205! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Devise::RegistrationsController#new as HTML
+  Rendered devise/registrations/new.html.erb within layouts/application (4.9ms)
+Completed 500 Internal Server Error in 11ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (undefined method `username' for #<User:0x00000005267c58>):
+     5:   
+     6:   <div class="field">
+     7:     <%= f.label :username %><br/>
+     8:     <%= f.text_field :username, autofocus: true %>
+     9:   </div>
+    10:   <div class="field">
+    11:     <%= f.label :email %><br />
+  app/views/devise/registrations/new.html.erb:8:in `block in _app_views_devise_registrations_new_html_erb___1084540349631027091_43163400'
+  app/views/devise/registrations/new.html.erb:3:in `_app_views_devise_registrations_new_html_erb___1084540349631027091_43163400'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (8.5ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.5ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.9ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (40.6ms)
+
+
+Started GET "/users/sign_up" for 116.98.14.205 at 2015-11-09 15:16:41 +0000
+Cannot render console from 116.98.14.205! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Devise::RegistrationsController#new as HTML
+  Rendered devise/registrations/new.html.erb within layouts/application (5.1ms)
+Completed 500 Internal Server Error in 11ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (undefined method `username' for #<User:0x00000005e15f78>):
+     5:   
+     6:   <div class="field">
+     7:     <%= f.label :username %><br/ >
+     8:     <%= f.text_field :username, autofocus: true %>
+     9:   </div>
+    10:   <div class="field">
+    11:     <%= f.label :email %><br />
+  app/views/devise/registrations/new.html.erb:8:in `block in _app_views_devise_registrations_new_html_erb___1084540349631027091_49141520'
+  app/views/devise/registrations/new.html.erb:3:in `_app_views_devise_registrations_new_html_erb___1084540349631027091_49141520'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (10.1ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.6ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.3ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (46.0ms)
+
+
+Started GET "/" for 116.98.14.205 at 2015-11-09 15:17:36 +0000
+Cannot render console from 116.98.14.205! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (0.5ms)
+  Rendered layouts/_nav_guest.html.erb (0.7ms)
+  Rendered layouts/_nav.html.erb (4.1ms)
+Completed 200 OK in 547ms (Views: 545.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for 116.98.14.205 at 2015-11-09 15:17:41 +0000
+Cannot render console from 116.98.14.205! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Devise::RegistrationsController#new as HTML
+  Rendered devise/registrations/new.html.erb within layouts/application (3.9ms)
+Completed 500 Internal Server Error in 10ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (undefined method `username' for #<User:0x007f76cca470c8>):
+     5:   
+     6:   <div class="field">
+     7:     <%= f.label :username %><br/ >
+     8:     <%= f.text_field :username, autofocus: true %>
+     9:   </div>
+    10:   <div class="field">
+    11:     <%= f.label :email %><br />
+  app/views/devise/registrations/new.html.erb:8:in `block in _app_views_devise_registrations_new_html_erb___1084540349631027091_49141520'
+  app/views/devise/registrations/new.html.erb:3:in `_app_views_devise_registrations_new_html_erb___1084540349631027091_49141520'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (9.2ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.2ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (41.8ms)
+
+
+Started GET "/users/sign_up" for 116.98.14.205 at 2015-11-09 15:17:42 +0000
+Cannot render console from 116.98.14.205! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Devise::RegistrationsController#new as HTML
+  Rendered devise/registrations/new.html.erb within layouts/application (3.6ms)
+Completed 500 Internal Server Error in 9ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (undefined method `username' for #<User:0x007f76cd8be250>):
+     5:   
+     6:   <div class="field">
+     7:     <%= f.label :username %><br/ >
+     8:     <%= f.text_field :username, autofocus: true %>
+     9:   </div>
+    10:   <div class="field">
+    11:     <%= f.label :email %><br />
+  app/views/devise/registrations/new.html.erb:8:in `block in _app_views_devise_registrations_new_html_erb___1084540349631027091_49141520'
+  app/views/devise/registrations/new.html.erb:3:in `_app_views_devise_registrations_new_html_erb___1084540349631027091_49141520'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (9.1ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.4ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.1ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (40.9ms)
+
+
+Started GET "/users/sign_up" for 116.98.14.205 at 2015-11-09 15:19:28 +0000
+Cannot render console from 116.98.14.205! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[35mActiveRecord::SchemaMigration Load (0.2ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+Processing by Devise::RegistrationsController#new as HTML
+  Rendered devise/registrations/new.html.erb within layouts/application (4.4ms)
+Completed 500 Internal Server Error in 11ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (undefined method `username' for #<User:0x007f76cd1cceb0>):
+     5:   
+     6:   <div class="field">
+     7:     <%= f.label :username %><br/ >
+     8:     <%= f.text_field :username, autofocus: true %>
+     9:   </div>
+    10:   <div class="field">
+    11:     <%= f.label :email %><br />
+  app/views/devise/registrations/new.html.erb:8:in `block in _app_views_devise_registrations_new_html_erb___1084540349631027091_49141520'
+  app/views/devise/registrations/new.html.erb:3:in `_app_views_devise_registrations_new_html_erb___1084540349631027091_49141520'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (13.6ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (6.1ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.7ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (53.8ms)
+
+
+Started GET "/users/sign_up" for 116.98.14.205 at 2015-11-09 15:20:32 +0000
+Cannot render console from 116.98.14.205! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by Devise::RegistrationsController#new as HTML
+  Rendered devise/registrations/new.html.erb within layouts/application (46.2ms)
+Completed 500 Internal Server Error in 88ms (ActiveRecord: 0.7ms)
+
+ActionView::Template::Error (undefined method `username' for #<User:0x00000004925c08>):
+     5:   
+     6:   <div class="field">
+     7:     <%= f.label :username %><br/ >
+     8:     <%= f.text_field :username, autofocus: true %>
+     9:   </div>
+    10:   <div class="field">
+    11:     <%= f.label :email %><br />
+  app/views/devise/registrations/new.html.erb:8:in `block in _app_views_devise_registrations_new_html_erb___1681836359279379347_36905880'
+  app/views/devise/registrations/new.html.erb:3:in `_app_views_devise_registrations_new_html_erb___1681836359279379347_36905880'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (13.6ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.8ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.1ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (55.8ms)
+
+
+Started GET "/" for 116.105.88.90 at 2015-11-10 12:04:40 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (0.7ms)
+  Rendered layouts/_nav_guest.html.erb (1.1ms)
+  Rendered layouts/_nav.html.erb (5.3ms)
+Completed 200 OK in 779ms (Views: 777.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for 116.105.88.90 at 2015-11-10 12:04:45 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Devise::RegistrationsController#new as HTML
+  Rendered devise/registrations/new.html.erb within layouts/application (6.4ms)
+Completed 500 Internal Server Error in 18ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (undefined method `username' for #<User:0x007f09d58e57c0>):
+     5:   
+     6:   <div class="field">
+     7:     <%= f.label :username %><br/ >
+     8:     <%= f.text_field :username, autofocus: true %>
+     9:   </div>
+    10:   <div class="field">
+    11:     <%= f.label :email %><br />
+  app/views/devise/registrations/new.html.erb:8:in `block in _app_views_devise_registrations_new_html_erb___1681836359279379347_36905880'
+  app/views/devise/registrations/new.html.erb:3:in `_app_views_devise_registrations_new_html_erb___1681836359279379347_36905880'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (13.8ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (5.1ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.5ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (77.7ms)
+
+
+Started GET "/users/sign_up" for 116.105.88.90 at 2015-11-10 12:04:46 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Devise::RegistrationsController#new as HTML
+  Rendered devise/registrations/new.html.erb within layouts/application (4.1ms)
+Completed 500 Internal Server Error in 11ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (undefined method `username' for #<User:0x007f09d56a8070>):
+     5:   
+     6:   <div class="field">
+     7:     <%= f.label :username %><br/ >
+     8:     <%= f.text_field :username, autofocus: true %>
+     9:   </div>
+    10:   <div class="field">
+    11:     <%= f.label :email %><br />
+  app/views/devise/registrations/new.html.erb:8:in `block in _app_views_devise_registrations_new_html_erb___1681836359279379347_36905880'
+  app/views/devise/registrations/new.html.erb:3:in `_app_views_devise_registrations_new_html_erb___1681836359279379347_36905880'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (12.7ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (4.3ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.4ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (51.6ms)
+
+
+Started GET "/users/sign_up" for 116.105.88.90 at 2015-11-10 12:08:30 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Devise::RegistrationsController#new as HTML
+  Rendered devise/registrations/new.html.erb within layouts/application (6.7ms)
+Completed 500 Internal Server Error in 35ms (ActiveRecord: 2.1ms)
+
+ActionView::Template::Error (undefined method `username' for #<User:0x007f09d4e674d8>):
+     5:   
+     6:   <div class="field">
+     7:     <%= f.label :username %><br/ >
+     8:     <%= f.text_field :username, autofocus: true %>
+     9:   </div>
+    10:   <div class="field">
+    11:     <%= f.label :email %><br />
+  app/views/devise/registrations/new.html.erb:8:in `block in _app_views_devise_registrations_new_html_erb___1681836359279379347_36905880'
+  app/views/devise/registrations/new.html.erb:3:in `_app_views_devise_registrations_new_html_erb___1681836359279379347_36905880'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (15.1ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (5.1ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.5ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (59.3ms)
+
+
+Started GET "/users/sign_up" for 116.105.88.90 at 2015-11-10 12:14:13 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Devise::RegistrationsController#new as HTML
+  Rendered devise/registrations/new.html.erb within layouts/application (6.5ms)
+Completed 500 Internal Server Error in 31ms (ActiveRecord: 1.1ms)
+
+ActionView::Template::Error (undefined method `username' for #<User:0x007f09d59189e0>):
+     5:   
+     6:   <div class="field">
+     7:     <%= f.label :username %><br/ >
+     8:     <%= f.text_field :username, autofocus: true %>
+     9:   </div>
+    10:   <div class="field">
+    11:     <%= f.label :email %><br />
+  app/views/devise/registrations/new.html.erb:8:in `block in _app_views_devise_registrations_new_html_erb___1681836359279379347_36905880'
+  app/views/devise/registrations/new.html.erb:3:in `_app_views_devise_registrations_new_html_erb___1681836359279379347_36905880'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (28.7ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (4.0ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (66.0ms)
+
+
+Started GET "/users/sign_up" for 116.105.88.90 at 2015-11-10 12:16:42 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Devise::RegistrationsController#new as HTML
+  Rendered devise/shared/_links.html.erb (1.7ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (22.3ms)
+  Rendered layouts/_nav_guest.html.erb (0.4ms)
+  Rendered layouts/_nav.html.erb (2.9ms)
+Completed 200 OK in 387ms (Views: 384.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e67db36b6b153dc5458de55838ad301937e9ecbb0d8228272917550f68f1256f.css?body=1" for 116.105.88.90 at 2015-11-10 12:16:43 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 116.105.88.90 at 2015-11-10 12:16:43 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/affix.self-d2b642d8fbfc1d7041e2edefd66683ada567a980789dcd6f94fddda0b33408b5.js?body=1" for 116.105.88.90 at 2015-11-10 12:16:43 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/button.self-a6cb16785434acb365ae426aef9f1fce05ed553cae7a965e4471c3da71509175.js?body=1" for 116.105.88.90 at 2015-11-10 12:16:43 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/alert.self-a29e91e8cd3ddaba9bbc466901d53ec2127e9256b9b941905d525a3a716bd1a5.js?body=1" for 116.105.88.90 at 2015-11-10 12:16:44 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/collapse.self-7dc8bfbc2fbfabd2bad62c58ff8ffeaf8f20fb87c7ca6cd35f06d4dc19632587.js?body=1" for 116.105.88.90 at 2015-11-10 12:16:44 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/carousel.self-57eb8422043cf0a85b7a9dc6843916eb0a3e35b419c7798a5eb254b918997631.js?body=1" for 116.105.88.90 at 2015-11-10 12:16:44 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/dropdown.self-9314126777c6be5443e37ea7f7967d7914d72b3e60449ba50edc967446373059.js?body=1" for 116.105.88.90 at 2015-11-10 12:16:44 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/tab.self-122235057fbd4c6c7da377d59dc58f47b44cb1088a2e38e6ee6ce9d8ac29a26a.js?body=1" for 116.105.88.90 at 2015-11-10 12:16:44 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/transition.self-09ff30b1e8a93d1f7728b9855f55d9c9d8d5734c8861e0d8139994e50944572a.js?body=1" for 116.105.88.90 at 2015-11-10 12:16:44 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/scrollspy.self-a155b9d4b2f978905f0326c0f6635e1134fe91c6bfbfcbad079fa24a9fef2b0e.js?body=1" for 116.105.88.90 at 2015-11-10 12:16:44 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/modal.self-72f95ffa1071297725a9ac91989693d56d1abf23f441a47455073b0da2857a5b.js?body=1" for 116.105.88.90 at 2015-11-10 12:16:44 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/tooltip.self-11cf547be953f25f511cec668f6690473fd97b2f65502e4032f4030999a3f0c3.js?body=1" for 116.105.88.90 at 2015-11-10 12:16:44 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/popover.self-77d8e3a2499c1104ef146396a68b82469ee2bdb365199b874694698d10405e9a.js?body=1" for 116.105.88.90 at 2015-11-10 12:16:44 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 116.105.88.90 at 2015-11-10 12:16:44 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 116.105.88.90 at 2015-11-10 12:16:44 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 116.105.88.90 at 2015-11-10 12:16:44 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 116.105.88.90 at 2015-11-10 12:16:44 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 116.105.88.90 at 2015-11-10 12:16:44 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/users/sign_in" for 116.105.88.90 at 2015-11-10 12:17:14 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Devise::SessionsController#new as HTML
+  Rendered devise/shared/_links.html.erb (0.8ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (12.1ms)
+  Rendered layouts/_nav_guest.html.erb (0.2ms)
+  Rendered layouts/_nav.html.erb (1.6ms)
+Completed 200 OK in 274ms (Views: 271.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for 116.105.88.90 at 2015-11-10 12:17:22 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Devise::RegistrationsController#new as HTML
+  Rendered devise/shared/_links.html.erb (0.4ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (5.4ms)
+  Rendered layouts/_nav_guest.html.erb (0.4ms)
+  Rendered layouts/_nav.html.erb (2.4ms)
+Completed 200 OK in 362ms (Views: 359.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for 116.105.88.90 at 2015-11-10 12:19:56 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Devise::RegistrationsController#new as HTML
+  Rendered devise/registrations/new.html.erb within layouts/application (8.0ms)
+Completed 500 Internal Server Error in 17ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (undefined method `username' for #<User:0x007f09d5f08990>):
+     5:   
+     6:     <div class="field">
+     7:     <%= f.label :username %><br />
+     8:     <%= f.text_field :username %>
+     9:   </div>
+    10:   
+    11:   <div class="field">
+  app/views/devise/registrations/new.html.erb:8:in `block in _app_views_devise_registrations_new_html_erb___1681836359279379347_69840111022800'
+  app/views/devise/registrations/new.html.erb:3:in `_app_views_devise_registrations_new_html_erb___1681836359279379347_69840111022800'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (10.9ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (4.3ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.4ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (54.1ms)
+
+
+Started GET "/users/sign_up" for 116.105.88.90 at 2015-11-10 12:20:08 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Devise::RegistrationsController#new as HTML
+  Rendered devise/registrations/new.html.erb within layouts/application (6.0ms)
+Completed 500 Internal Server Error in 14ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (undefined method `username' for #<User:0x000000052a7b28>):
+     5:   
+     6:   <div class="field">
+     7:     <%= f.label :username %><br />
+     8:     <%= f.text_field :username %>
+     9:   </div>
+    10:   
+    11:   <div class="field">
+  app/views/devise/registrations/new.html.erb:8:in `block in _app_views_devise_registrations_new_html_erb___1681836359279379347_43281620'
+  app/views/devise/registrations/new.html.erb:3:in `_app_views_devise_registrations_new_html_erb___1681836359279379347_43281620'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (11.4ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (5.6ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.7ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (57.1ms)
+
+
+Started GET "/users/sign_up" for 116.105.88.90 at 2015-11-10 12:22:35 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by Devise::RegistrationsController#new as HTML
+  Rendered devise/registrations/new.html.erb within layouts/application (67.4ms)
+Completed 500 Internal Server Error in 132ms (ActiveRecord: 0.8ms)
+
+ActionView::Template::Error (undefined method `username' for #<User:0x000000055b0d60>):
+     5:   
+     6:   <div class="field">
+     7:     <%= f.label :username %><br />
+     8:     <%= f.text_field :username %>
+     9:   </div>
+    10:   
+    11:   <div class="field">
+  app/views/devise/registrations/new.html.erb:8:in `block in _app_views_devise_registrations_new_html_erb__3530561612184112442_42925180'
+  app/views/devise/registrations/new.html.erb:3:in `_app_views_devise_registrations_new_html_erb__3530561612184112442_42925180'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (14.9ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (4.6ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (55.6ms)
+
+
+Started GET "/users/sign_up" for 116.105.88.90 at 2015-11-10 12:29:54 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Devise::RegistrationsController#new as HTML
+  Rendered devise/registrations/new.html.erb within layouts/application (5.3ms)
+Completed 500 Internal Server Error in 14ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (undefined method `username' for #<User:0x00000003864a40>):
+     5:   
+     6:   <div class="field">
+     7:     <%= f.label :username %><br />
+     8:     <%= f.text_field :username %>
+     9:   </div>
+    10:   
+    11:   <div class="field">
+  app/views/devise/registrations/new.html.erb:8:in `block in _app_views_devise_registrations_new_html_erb__3530561612184112442_42925180'
+  app/views/devise/registrations/new.html.erb:3:in `_app_views_devise_registrations_new_html_erb__3530561612184112442_42925180'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (12.0ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (4.7ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.3ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (54.0ms)
+
+
+Started GET "/users/sign_up" for 116.105.88.90 at 2015-11-10 12:30:46 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Devise::RegistrationsController#new as HTML
+  Rendered devise/shared/_links.html.erb (1.5ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (20.1ms)
+  Rendered layouts/_nav_guest.html.erb (1.0ms)
+  Rendered layouts/_nav.html.erb (3.3ms)
+Completed 200 OK in 595ms (Views: 593.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e67db36b6b153dc5458de55838ad301937e9ecbb0d8228272917550f68f1256f.css?body=1" for 116.105.88.90 at 2015-11-10 12:30:47 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 116.105.88.90 at 2015-11-10 12:30:47 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/affix.self-d2b642d8fbfc1d7041e2edefd66683ada567a980789dcd6f94fddda0b33408b5.js?body=1" for 116.105.88.90 at 2015-11-10 12:30:47 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/alert.self-a29e91e8cd3ddaba9bbc466901d53ec2127e9256b9b941905d525a3a716bd1a5.js?body=1" for 116.105.88.90 at 2015-11-10 12:30:47 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/button.self-a6cb16785434acb365ae426aef9f1fce05ed553cae7a965e4471c3da71509175.js?body=1" for 116.105.88.90 at 2015-11-10 12:30:47 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/carousel.self-57eb8422043cf0a85b7a9dc6843916eb0a3e35b419c7798a5eb254b918997631.js?body=1" for 116.105.88.90 at 2015-11-10 12:30:47 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/collapse.self-7dc8bfbc2fbfabd2bad62c58ff8ffeaf8f20fb87c7ca6cd35f06d4dc19632587.js?body=1" for 116.105.88.90 at 2015-11-10 12:30:47 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/dropdown.self-9314126777c6be5443e37ea7f7967d7914d72b3e60449ba50edc967446373059.js?body=1" for 116.105.88.90 at 2015-11-10 12:30:47 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/tab.self-122235057fbd4c6c7da377d59dc58f47b44cb1088a2e38e6ee6ce9d8ac29a26a.js?body=1" for 116.105.88.90 at 2015-11-10 12:30:47 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/transition.self-09ff30b1e8a93d1f7728b9855f55d9c9d8d5734c8861e0d8139994e50944572a.js?body=1" for 116.105.88.90 at 2015-11-10 12:30:47 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/scrollspy.self-a155b9d4b2f978905f0326c0f6635e1134fe91c6bfbfcbad079fa24a9fef2b0e.js?body=1" for 116.105.88.90 at 2015-11-10 12:30:47 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/modal.self-72f95ffa1071297725a9ac91989693d56d1abf23f441a47455073b0da2857a5b.js?body=1" for 116.105.88.90 at 2015-11-10 12:30:47 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/tooltip.self-11cf547be953f25f511cec668f6690473fd97b2f65502e4032f4030999a3f0c3.js?body=1" for 116.105.88.90 at 2015-11-10 12:30:48 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/popover.self-77d8e3a2499c1104ef146396a68b82469ee2bdb365199b874694698d10405e9a.js?body=1" for 116.105.88.90 at 2015-11-10 12:30:48 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 116.105.88.90 at 2015-11-10 12:30:48 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 116.105.88.90 at 2015-11-10 12:30:48 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 116.105.88.90 at 2015-11-10 12:30:48 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 116.105.88.90 at 2015-11-10 12:30:48 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 116.105.88.90 at 2015-11-10 12:30:48 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/users/sign_in" for 116.105.88.90 at 2015-11-10 12:31:16 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Devise::SessionsController#new as HTML
+  Rendered devise/shared/_links.html.erb (1.5ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (18.7ms)
+  Rendered layouts/_nav_guest.html.erb (0.6ms)
+  Rendered layouts/_nav.html.erb (2.6ms)
+Completed 200 OK in 245ms (Views: 242.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/users/sign_in" for 116.105.88.90 at 2015-11-10 12:32:12 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Devise::SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"LM3Rthor8arbLAIx2x6xwH+9BheufC93lTAJQXz+cMKKbAenM9BlhWj7HD8ydBvE4RaOdBkGi+Rq1iqxOAQtNA==", "user"=>{"email"=>"phamquoctoan@hotmail.com", "password"=>"[FILTERED]", "remember_me"=>"1"}, "commit"=>"Log in"}
+  [1m[35mUser Load (0.7ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."email" = ?  ORDER BY "users"."id" ASC LIMIT 1  [["email", "phamquoctoan@hotmail.com"]]
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.5ms)[0m  UPDATE "users" SET "remember_created_at" = ?, "updated_at" = ? WHERE "users"."id" = ?  [["remember_created_at", "2015-11-10 12:32:13.071676"], ["updated_at", "2015-11-10 12:32:13.073267"], ["id", 1]]
+  [1m[36m (14.4ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.4ms)[0m  [1mUPDATE "users" SET "last_sign_in_at" = ?, "current_sign_in_at" = ?, "current_sign_in_ip" = ?, "sign_in_count" = ?, "updated_at" = ? WHERE "users"."id" = ?[0m  [["last_sign_in_at", "2015-11-08 14:43:14.887994"], ["current_sign_in_at", "2015-11-10 12:32:13.092823"], ["current_sign_in_ip", "116.105.88.90"], ["sign_in_count", 4], ["updated_at", "2015-11-10 12:32:13.094091"], ["id", 1]]
+  [1m[35m (13.3ms)[0m  commit transaction
+Redirected to https://flutter-focoda1.c9users.io/
+Completed 302 Found in 262ms (ActiveRecord: 29.5ms)
+
+
+Started GET "/" for 116.105.88.90 at 2015-11-10 12:32:13 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (0.3ms)
+  [1m[36mUser Load (0.3ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 1]]
+  Rendered layouts/_nav_user.html.erb (1.3ms)
+  Rendered layouts/_nav.html.erb (6.6ms)
+Completed 200 OK in 193ms (Views: 191.5ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/" for 116.105.88.90 at 2015-11-10 12:40:50 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  [1m[35mUser Load (0.4ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1  [["id", 1]]
+  Rendered layouts/_nav_user.html.erb (6.1ms)
+  Rendered layouts/_nav.html.erb (11.3ms)
+Completed 500 Internal Server Error in 388ms (ActiveRecord: 0.4ms)
+
+ActionView::Template::Error (undefined method `username' for #<User:0x007fdd0cae48e0>):
+    26:           </form>
+    27:         <li><a href="#">Tweet</a></li>
+    28:         <li class="dropdown">
+    29:           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><%= current_user.username %><span class="caret"></span></a>
+    30:           <ul class="dropdown-menu">
+    31:             <li><a href="/profile">Profile</a></li>
+    32:             <li role="separator" class="divider"></li>
+  app/views/layouts/_nav_user.html.erb:29:in `_app_views_layouts__nav_user_html_erb___1128777695986463133_70293688599980'
+  app/views/layouts/_nav.html.erb:5:in `_app_views_layouts__nav_html_erb__1098421201570613129_38756680'
+  app/views/layouts/application.html.erb:10:in `_app_views_layouts_application_html_erb___2505454458277695356_42840640'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (15.0ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (6.7ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.9ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (65.2ms)
+
+
+Started GET "/" for 116.105.88.90 at 2015-11-10 12:43:45 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  [1m[36mUser Load (0.3ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 1]]
+  Rendered layouts/_nav_user.html.erb (4.4ms)
+  Rendered layouts/_nav.html.erb (7.9ms)
+Completed 500 Internal Server Error in 218ms (ActiveRecord: 0.3ms)
+
+ActionView::Template::Error (undefined method `username' for #<User:0x00000005647e18>):
+    26:           </form>
+    27:         <li><a href="#">Tweet</a></li>
+    28:         <li class="dropdown">
+    29:           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><%= current_user.username %><span class="caret"></span></a>
+    30:           <ul class="dropdown-menu">
+    31:             <li><a href="/profile">Profile</a></li>
+    32:             <li role="separator" class="divider"></li>
+  app/views/layouts/_nav_user.html.erb:29:in `_app_views_layouts__nav_user_html_erb___1128777695986463133_70293688599980'
+  app/views/layouts/_nav.html.erb:5:in `_app_views_layouts__nav_html_erb__1098421201570613129_38756680'
+  app/views/layouts/application.html.erb:10:in `_app_views_layouts_application_html_erb___2505454458277695356_42840640'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (8.7ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.7ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.1ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (42.6ms)
+
+
+Started GET "/" for 116.105.88.90 at 2015-11-10 12:46:49 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  [1m[35mUser Load (0.3ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1  [["id", 1]]
+  Rendered layouts/_nav_user.html.erb (3.5ms)
+  Rendered layouts/_nav.html.erb (6.9ms)
+Completed 500 Internal Server Error in 248ms (ActiveRecord: 0.3ms)
+
+ActionView::Template::Error (undefined method `username' for #<User:0x007fdd08481880>):
+    26:           </form>
+    27:         <li><a href="#">Tweet</a></li>
+    28:         <li class="dropdown">
+    29:           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><%= current_user.username %><span class="caret"></span></a>
+    30:           <ul class="dropdown-menu">
+    31:             <li><a href="/profile">Profile</a></li>
+    32:             <li role="separator" class="divider"></li>
+  app/views/layouts/_nav_user.html.erb:29:in `_app_views_layouts__nav_user_html_erb___1128777695986463133_70293688599980'
+  app/views/layouts/_nav.html.erb:5:in `_app_views_layouts__nav_html_erb__1098421201570613129_38756680'
+  app/views/layouts/application.html.erb:10:in `_app_views_layouts_application_html_erb___2505454458277695356_42840640'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (15.5ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (5.5ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.8ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (63.7ms)
+
+
+Started GET "/" for 116.105.88.90 at 2015-11-10 12:48:43 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  [1m[36mUser Load (0.4ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 1]]
+  Rendered layouts/_nav_user.html.erb (4.8ms)
+  Rendered layouts/_nav.html.erb (8.7ms)
+Completed 500 Internal Server Error in 330ms (ActiveRecord: 0.4ms)
+
+ActionView::Template::Error (undefined method `username' for #<User:0x007fdd0df1be08>):
+    26:           </form>
+    27:         <li><a href="#">Tweet</a></li>
+    28:         <li class="dropdown">
+    29:           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><%= current_user.username %><span class="caret"></span></a>
+    30:           <ul class="dropdown-menu">
+    31:             <li><a href="/profile">Profile</a></li>
+    32:             <li role="separator" class="divider"></li>
+  app/views/layouts/_nav_user.html.erb:29:in `_app_views_layouts__nav_user_html_erb___1128777695986463133_70293688599980'
+  app/views/layouts/_nav.html.erb:5:in `_app_views_layouts__nav_html_erb__1098421201570613129_38756680'
+  app/views/layouts/application.html.erb:10:in `_app_views_layouts_application_html_erb___2505454458277695356_42840640'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (18.9ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (8.0ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.5ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (72.9ms)
+
+
+Started GET "/" for 116.105.88.90 at 2015-11-10 12:49:44 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  [1m[35mUser Load (0.3ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1  [["id", 1]]
+  Rendered layouts/_nav_user.html.erb (1.4ms)
+  Rendered layouts/_nav.html.erb (5.1ms)
+Completed 200 OK in 271ms (Views: 242.8ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/bootstrap/affix.self-d2b642d8fbfc1d7041e2edefd66683ada567a980789dcd6f94fddda0b33408b5.js?body=1" for 116.105.88.90 at 2015-11-10 12:49:45 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-e67db36b6b153dc5458de55838ad301937e9ecbb0d8228272917550f68f1256f.css?body=1" for 116.105.88.90 at 2015-11-10 12:49:45 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 116.105.88.90 at 2015-11-10 12:49:45 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 116.105.88.90 at 2015-11-10 12:49:45 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/button.self-a6cb16785434acb365ae426aef9f1fce05ed553cae7a965e4471c3da71509175.js?body=1" for 116.105.88.90 at 2015-11-10 12:49:45 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/alert.self-a29e91e8cd3ddaba9bbc466901d53ec2127e9256b9b941905d525a3a716bd1a5.js?body=1" for 116.105.88.90 at 2015-11-10 12:49:45 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 116.105.88.90 at 2015-11-10 12:49:45 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/tooltip.self-11cf547be953f25f511cec668f6690473fd97b2f65502e4032f4030999a3f0c3.js?body=1" for 116.105.88.90 at 2015-11-10 12:49:45 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/popover.self-77d8e3a2499c1104ef146396a68b82469ee2bdb365199b874694698d10405e9a.js?body=1" for 116.105.88.90 at 2015-11-10 12:49:45 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 116.105.88.90 at 2015-11-10 12:49:45 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/carousel.self-57eb8422043cf0a85b7a9dc6843916eb0a3e35b419c7798a5eb254b918997631.js?body=1" for 116.105.88.90 at 2015-11-10 12:49:45 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/collapse.self-7dc8bfbc2fbfabd2bad62c58ff8ffeaf8f20fb87c7ca6cd35f06d4dc19632587.js?body=1" for 116.105.88.90 at 2015-11-10 12:49:45 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/dropdown.self-9314126777c6be5443e37ea7f7967d7914d72b3e60449ba50edc967446373059.js?body=1" for 116.105.88.90 at 2015-11-10 12:49:45 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/tab.self-122235057fbd4c6c7da377d59dc58f47b44cb1088a2e38e6ee6ce9d8ac29a26a.js?body=1" for 116.105.88.90 at 2015-11-10 12:49:45 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/transition.self-09ff30b1e8a93d1f7728b9855f55d9c9d8d5734c8861e0d8139994e50944572a.js?body=1" for 116.105.88.90 at 2015-11-10 12:49:45 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/scrollspy.self-a155b9d4b2f978905f0326c0f6635e1134fe91c6bfbfcbad079fa24a9fef2b0e.js?body=1" for 116.105.88.90 at 2015-11-10 12:49:45 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/modal.self-72f95ffa1071297725a9ac91989693d56d1abf23f441a47455073b0da2857a5b.js?body=1" for 116.105.88.90 at 2015-11-10 12:49:45 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 116.105.88.90 at 2015-11-10 12:49:45 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 116.105.88.90 at 2015-11-10 12:49:45 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started DELETE "/users/sign_out" for 116.105.88.90 at 2015-11-10 12:49:49 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Devise::SessionsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"sgljuf4HRHqRYySa85pumAUP9ToRw4ne76YCmBxefBCwD+1jQt1N6gO7AhQ+6wDQq8ZZZa9yyB1m9rlqJNBQeA=="}
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 1]]
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.4ms)[0m  [1mUPDATE "users" SET "remember_created_at" = ?, "updated_at" = ? WHERE "users"."id" = ?[0m  [["remember_created_at", nil], ["updated_at", "2015-11-10 12:49:49.247801"], ["id", 1]]
+  [1m[35m (17.5ms)[0m  commit transaction
+Redirected to https://flutter-focoda1.c9users.io/
+Completed 302 Found in 27ms (ActiveRecord: 18.3ms)
+
+
+Started GET "/" for 116.105.88.90 at 2015-11-10 12:49:49 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_nav_guest.html.erb (0.4ms)
+  Rendered layouts/_nav.html.erb (3.4ms)
+Completed 200 OK in 209ms (Views: 208.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for 116.105.88.90 at 2015-11-10 12:49:52 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Devise::RegistrationsController#new as HTML
+  Rendered devise/registrations/new.html.erb within layouts/application (5.0ms)
+Completed 500 Internal Server Error in 11ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (undefined method `username' for #<User:0x007fdd08257a28>):
+     5:   
+     6:   <div class="field">
+     7:     <%= f.label :username %><br />
+     8:     <%= f.text_field :username, autofocus: true %>
+     9:   </div>
+    10:   
+    11:   <div class="field">
+  app/views/devise/registrations/new.html.erb:8:in `block in _app_views_devise_registrations_new_html_erb__3530561612184112442_70293650581660'
+  app/views/devise/registrations/new.html.erb:3:in `_app_views_devise_registrations_new_html_erb__3530561612184112442_70293650581660'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (14.7ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (5.2ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.2ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (55.5ms)
+
+
+Started GET "/users/sign_up" for 116.105.88.90 at 2015-11-10 12:49:53 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Devise::RegistrationsController#new as HTML
+  Rendered devise/registrations/new.html.erb within layouts/application (4.2ms)
+Completed 500 Internal Server Error in 10ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (undefined method `username' for #<User:0x007fdd088ca720>):
+     5:   
+     6:   <div class="field">
+     7:     <%= f.label :username %><br />
+     8:     <%= f.text_field :username, autofocus: true %>
+     9:   </div>
+    10:   
+    11:   <div class="field">
+  app/views/devise/registrations/new.html.erb:8:in `block in _app_views_devise_registrations_new_html_erb__3530561612184112442_70293650581660'
+  app/views/devise/registrations/new.html.erb:3:in `_app_views_devise_registrations_new_html_erb__3530561612184112442_70293650581660'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (8.3ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (4.0ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.4ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (42.4ms)
+
+
+Started GET "/users/sign_up" for 116.105.88.90 at 2015-11-10 12:53:10 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Devise::RegistrationsController#new as HTML
+  Rendered devise/registrations/new.html.erb within layouts/application (5.1ms)
+Completed 500 Internal Server Error in 13ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (undefined method `username' for #<User:0x007fdd0d137788>):
+     5:   
+     6:   <div class="field">
+     7:     <%= f.label :username %><br />
+     8:     <%= f.text_field :username, autofocus: true %>
+     9:   </div>
+    10:   
+    11:   <div class="field">
+  app/views/devise/registrations/new.html.erb:8:in `block in _app_views_devise_registrations_new_html_erb__3530561612184112442_70293650581660'
+  app/views/devise/registrations/new.html.erb:3:in `_app_views_devise_registrations_new_html_erb__3530561612184112442_70293650581660'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (10.0ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (4.6ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.2ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (47.7ms)
+
+
+Started GET "/users/sign_up" for 116.105.88.90 at 2015-11-10 12:53:14 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Devise::RegistrationsController#new as HTML
+  Rendered devise/registrations/new.html.erb within layouts/application (5.6ms)
+Completed 500 Internal Server Error in 15ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (undefined method `username' for #<User:0x007fdd0810ab70>):
+     5:   
+     6:   <div class="field">
+     7:     <%= f.label :username %><br />
+     8:     <%= f.text_field :username, autofocus: true %>
+     9:   </div>
+    10:   
+    11:   <div class="field">
+  app/views/devise/registrations/new.html.erb:8:in `block in _app_views_devise_registrations_new_html_erb__3530561612184112442_70293650581660'
+  app/views/devise/registrations/new.html.erb:3:in `_app_views_devise_registrations_new_html_erb__3530561612184112442_70293650581660'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (15.8ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (5.7ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.6ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (59.8ms)
+
+
+Started GET "/users/sign_up" for 116.105.88.90 at 2015-11-10 12:54:21 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Devise::RegistrationsController#new as HTML
+  Rendered devise/registrations/new.html.erb within layouts/application (4.5ms)
+Completed 500 Internal Server Error in 11ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (undefined method `username' for #<User:0x007fdd0857e670>):
+     5:   
+     6:   <div class="field">
+     7:     <%= f.label :username %><br />
+     8:     <%= f.text_field :username, autofocus: true %>
+     9:   </div>
+    10:   
+    11:   <div class="field">
+  app/views/devise/registrations/new.html.erb:8:in `block in _app_views_devise_registrations_new_html_erb__3530561612184112442_70293650581660'
+  app/views/devise/registrations/new.html.erb:3:in `_app_views_devise_registrations_new_html_erb__3530561612184112442_70293650581660'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (12.0ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (5.4ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.2ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (52.7ms)
+
+
+Started GET "/users/sign_up" for 116.105.88.90 at 2015-11-10 12:54:24 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Devise::RegistrationsController#new as HTML
+  Rendered devise/registrations/new.html.erb within layouts/application (4.4ms)
+Completed 500 Internal Server Error in 10ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (undefined method `username' for #<User:0x007fdd084f1798>):
+     5:   
+     6:   <div class="field">
+     7:     <%= f.label :username %><br />
+     8:     <%= f.text_field :username, autofocus: true %>
+     9:   </div>
+    10:   
+    11:   <div class="field">
+  app/views/devise/registrations/new.html.erb:8:in `block in _app_views_devise_registrations_new_html_erb__3530561612184112442_70293650581660'
+  app/views/devise/registrations/new.html.erb:3:in `_app_views_devise_registrations_new_html_erb__3530561612184112442_70293650581660'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (9.1ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (4.6ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.2ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (44.7ms)
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.2ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+  [1m[36m (0.2ms)[0m  [1m            SELECT sql
+            FROM sqlite_master
+            WHERE name='index_users_on_reset_password_token' AND type='index'
+            UNION ALL
+            SELECT sql
+            FROM sqlite_temp_master
+            WHERE name='index_users_on_reset_password_token' AND type='index'
+[0m
+  [1m[35m (0.2ms)[0m              SELECT sql
+            FROM sqlite_master
+            WHERE name='index_users_on_email' AND type='index'
+            UNION ALL
+            SELECT sql
+            FROM sqlite_temp_master
+            WHERE name='index_users_on_email' AND type='index'
+
+
+
+Started GET "/users/sign_up" for 116.105.88.90 at 2015-11-10 13:09:52 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by Devise::RegistrationsController#new as HTML
+  Rendered devise/registrations/new.html.erb within layouts/application (5.2ms)
+Completed 500 Internal Server Error in 26ms (ActiveRecord: 0.6ms)
+
+ActionView::Template::Error (undefined method `username' for #<User:0x000000036a4390>):
+     5:   
+     6:   <div class="field">
+     7:     <%= f.label :username %><br />
+     8:     <%= f.text_field :username, autofocus: true %>
+     9:   </div>
+    10:   
+    11:   <div class="field">
+  app/views/devise/registrations/new.html.erb:8:in `block in _app_views_devise_registrations_new_html_erb__3530561612184112442_70293650581660'
+  app/views/devise/registrations/new.html.erb:3:in `_app_views_devise_registrations_new_html_erb__3530561612184112442_70293650581660'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (11.2ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (4.4ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.3ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (50.4ms)
+
+
+Started GET "/users/sign_up" for 116.105.88.90 at 2015-11-10 13:11:57 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Devise::RegistrationsController#new as HTML
+  Rendered devise/registrations/new.html.erb within layouts/application (5.3ms)
+Completed 500 Internal Server Error in 29ms (ActiveRecord: 1.4ms)
+
+ActionView::Template::Error (undefined method `username' for #<User:0x0000000535ccd0>):
+     5:   
+     6:   <div class="field">
+     7:     <%= f.label :username %><br />
+     8:     <%= f.text_field :username, autofocus: true %>
+     9:   </div>
+    10:   
+    11:   <div class="field">
+  app/views/devise/registrations/new.html.erb:8:in `block in _app_views_devise_registrations_new_html_erb__3530561612184112442_70293650581660'
+  app/views/devise/registrations/new.html.erb:3:in `_app_views_devise_registrations_new_html_erb__3530561612184112442_70293650581660'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (10.1ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (5.3ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.5ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (50.3ms)
+
+
+Started GET "/users/sign_up" for 116.105.88.90 at 2015-11-10 13:13:14 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by Devise::RegistrationsController#new as HTML
+  Rendered devise/registrations/new.html.erb within layouts/application (64.7ms)
+Completed 500 Internal Server Error in 135ms (ActiveRecord: 1.1ms)
+
+ActionView::Template::Error (undefined method `username' for #<User:0x00000004fb5348>):
+     5:   
+     6:   <div class="field">
+     7:     <%= f.label :username %><br />
+     8:     <%= f.text_field :username, autofocus: true %>
+     9:   </div>
+    10:   
+    11:   <div class="field">
+  app/views/devise/registrations/new.html.erb:8:in `block in _app_views_devise_registrations_new_html_erb___580304634872664462_40366060'
+  app/views/devise/registrations/new.html.erb:3:in `_app_views_devise_registrations_new_html_erb___580304634872664462_40366060'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (11.5ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (4.7ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.1ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (53.6ms)
+
+
+Started GET "/users/sign_up" for 116.105.88.90 at 2015-11-10 13:15:21 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Devise::RegistrationsController#new as HTML
+  Rendered devise/registrations/new.html.erb within layouts/application (4.2ms)
+Completed 500 Internal Server Error in 26ms (ActiveRecord: 0.9ms)
+
+ActionView::Template::Error (undefined method `username' for #<User:0x000000052287d8>):
+     5:   
+     6:   <div class="field">
+     7:     <%= f.label :username %><br />
+     8:     <%= f.text_field :username, autofocus: true %>
+     9:   </div>
+    10:   
+    11:   <div class="field">
+  app/views/devise/registrations/new.html.erb:8:in `block in _app_views_devise_registrations_new_html_erb___580304634872664462_40366060'
+  app/views/devise/registrations/new.html.erb:3:in `_app_views_devise_registrations_new_html_erb___580304634872664462_40366060'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (11.8ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (15.1ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.4ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (59.6ms)
+
+
+Started GET "/users/sign_up" for 116.105.88.90 at 2015-11-10 13:17:53 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Devise::RegistrationsController#new as HTML
+  Rendered devise/registrations/new.html.erb within layouts/application (6.8ms)
+Completed 500 Internal Server Error in 37ms (ActiveRecord: 1.4ms)
+
+ActionView::Template::Error (undefined method `username' for #<User:0x000000056e78c8>):
+     5:   
+     6:   <div class="field">
+     7:     <%= f.label :username %><br />
+     8:     <%= f.text_field :username, autofocus: true %>
+     9:   </div>
+    10:   
+    11:   <div class="field">
+  app/views/devise/registrations/new.html.erb:8:in `block in _app_views_devise_registrations_new_html_erb___580304634872664462_40366060'
+  app/views/devise/registrations/new.html.erb:3:in `_app_views_devise_registrations_new_html_erb___580304634872664462_40366060'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (10.4ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (4.2ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.1ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (44.0ms)
+
+
+Started GET "/users/sign_up" for 116.105.88.90 at 2015-11-10 13:17:58 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Devise::RegistrationsController#new as HTML
+  Rendered devise/registrations/new.html.erb within layouts/application (3.9ms)
+Completed 500 Internal Server Error in 10ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (undefined method `username' for #<User:0x0000000265fbd8>):
+     5:   
+     6:   <div class="field">
+     7:     <%= f.label :username %><br />
+     8:     <%= f.text_field :username, autofocus: true %>
+     9:   </div>
+    10:   
+    11:   <div class="field">
+  app/views/devise/registrations/new.html.erb:8:in `block in _app_views_devise_registrations_new_html_erb___580304634872664462_40366060'
+  app/views/devise/registrations/new.html.erb:3:in `_app_views_devise_registrations_new_html_erb___580304634872664462_40366060'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (8.9ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (4.1ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.4ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (45.1ms)
+
+
+Started GET "/users/sign_up" for 116.105.88.90 at 2015-11-10 13:24:14 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Devise::RegistrationsController#new as HTML
+  Rendered devise/registrations/new.html.erb within layouts/application (7.6ms)
+Completed 500 Internal Server Error in 15ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (undefined method `username' for #<User:0x00000004f68458>):
+     5:   
+     6:   <div class="field">
+     7:     <%= f.label :username %><br />
+     8:     <%= f.text_field :username, autofocus:true %>
+     9:   </div>
+    10:   
+    11:   <div class="field">
+  app/views/devise/registrations/new.html.erb:8:in `block in _app_views_devise_registrations_new_html_erb___580304634872664462_41591340'
+  app/views/devise/registrations/new.html.erb:3:in `_app_views_devise_registrations_new_html_erb___580304634872664462_41591340'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (17.0ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (5.3ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.2ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (65.2ms)
+
+
+Started GET "/users/sign_up" for 116.105.88.90 at 2015-11-10 13:26:29 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by Devise::RegistrationsController#new as HTML
+  Rendered devise/registrations/new.html.erb within layouts/application (60.3ms)
+Completed 500 Internal Server Error in 199ms (ActiveRecord: 0.6ms)
+
+ActionView::Template::Error (undefined method `username' for #<User:0x000000051a3588>):
+     5:   
+     6:   <div class="field">
+     7:     <%= f.label :username %><br />
+     8:     <%= f.text_field :username, autofocus:true %>
+     9:   </div>
+    10:   
+    11:   <div class="field">
+  app/views/devise/registrations/new.html.erb:8:in `block in _app_views_devise_registrations_new_html_erb___1483816066544640635_41403040'
+  app/views/devise/registrations/new.html.erb:3:in `_app_views_devise_registrations_new_html_erb___1483816066544640635_41403040'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (10.7ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (4.6ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.1ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (57.5ms)
+  [1m[36m (16.9ms)[0m  [1mCREATE TABLE "users" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "email" varchar DEFAULT '' NOT NULL, "encrypted_password" varchar DEFAULT '' NOT NULL, "reset_password_token" varchar, "reset_password_sent_at" datetime, "remember_created_at" datetime, "sign_in_count" integer DEFAULT 0 NOT NULL, "current_sign_in_at" datetime, "last_sign_in_at" datetime, "current_sign_in_ip" varchar, "last_sign_in_ip" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL, "username" varchar) [0m
+  [1m[35m (0.2ms)[0m  select sqlite_version(*)
+  [1m[36m (16.7ms)[0m  [1mCREATE UNIQUE INDEX "index_users_on_email" ON "users" ("email")[0m
+  [1m[35m (0.2ms)[0m              SELECT sql
+            FROM sqlite_master
+            WHERE name='index_users_on_email' AND type='index'
+            UNION ALL
+            SELECT sql
+            FROM sqlite_temp_master
+            WHERE name='index_users_on_email' AND type='index'
+
+  [1m[36m (16.2ms)[0m  [1mCREATE UNIQUE INDEX "index_users_on_reset_password_token" ON "users" ("reset_password_token")[0m
+  [1m[35m (0.2ms)[0m              SELECT sql
+            FROM sqlite_master
+            WHERE name='index_users_on_reset_password_token' AND type='index'
+            UNION ALL
+            SELECT sql
+            FROM sqlite_temp_master
+            WHERE name='index_users_on_reset_password_token' AND type='index'
+
+  [1m[36m (0.1ms)[0m  [1m            SELECT sql
+            FROM sqlite_master
+            WHERE name='index_users_on_email' AND type='index'
+            UNION ALL
+            SELECT sql
+            FROM sqlite_temp_master
+            WHERE name='index_users_on_email' AND type='index'
+[0m
+  [1m[35m (14.0ms)[0m  CREATE UNIQUE INDEX "index_users_on_username" ON "users" ("username")
+  [1m[36m (15.0ms)[0m  [1mCREATE TABLE "schema_migrations" ("version" varchar NOT NULL) [0m
+  [1m[35m (12.9ms)[0m  CREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")
+  [1m[36m (0.2ms)[0m  [1mSELECT version FROM "schema_migrations"[0m
+  [1m[35m (16.9ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20151109120154')
+  [1m[36m (14.8ms)[0m  [1mINSERT INTO "schema_migrations" (version) VALUES ('20151108135625')[0m
+  [1m[35m (14.4ms)[0m  CREATE TABLE "users" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "email" varchar DEFAULT '' NOT NULL, "encrypted_password" varchar DEFAULT '' NOT NULL, "reset_password_token" varchar, "reset_password_sent_at" datetime, "remember_created_at" datetime, "sign_in_count" integer DEFAULT 0 NOT NULL, "current_sign_in_at" datetime, "last_sign_in_at" datetime, "current_sign_in_ip" varchar, "last_sign_in_ip" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL, "username" varchar) 
+  [1m[36m (0.1ms)[0m  [1mselect sqlite_version(*)[0m
+  [1m[35m (14.5ms)[0m  CREATE UNIQUE INDEX "index_users_on_email" ON "users" ("email")
+  [1m[36m (0.3ms)[0m  [1m            SELECT sql
+            FROM sqlite_master
+            WHERE name='index_users_on_email' AND type='index'
+            UNION ALL
+            SELECT sql
+            FROM sqlite_temp_master
+            WHERE name='index_users_on_email' AND type='index'
+[0m
+  [1m[35m (15.8ms)[0m  CREATE UNIQUE INDEX "index_users_on_reset_password_token" ON "users" ("reset_password_token")
+  [1m[36m (0.2ms)[0m  [1m            SELECT sql
+            FROM sqlite_master
+            WHERE name='index_users_on_reset_password_token' AND type='index'
+            UNION ALL
+            SELECT sql
+            FROM sqlite_temp_master
+            WHERE name='index_users_on_reset_password_token' AND type='index'
+[0m
+  [1m[35m (0.1ms)[0m              SELECT sql
+            FROM sqlite_master
+            WHERE name='index_users_on_email' AND type='index'
+            UNION ALL
+            SELECT sql
+            FROM sqlite_temp_master
+            WHERE name='index_users_on_email' AND type='index'
+
+  [1m[36m (15.9ms)[0m  [1mCREATE UNIQUE INDEX "index_users_on_username" ON "users" ("username")[0m
+  [1m[35m (12.6ms)[0m  CREATE TABLE "schema_migrations" ("version" varchar NOT NULL) 
+  [1m[36m (14.6ms)[0m  [1mCREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")[0m
+  [1m[35m (0.2ms)[0m  SELECT version FROM "schema_migrations"
+  [1m[36m (15.2ms)[0m  [1mINSERT INTO "schema_migrations" (version) VALUES ('20151109120154')[0m
+  [1m[35m (14.3ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20151108135625')
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+
+
+Started GET "/users/sign_up" for 116.105.88.90 at 2015-11-10 13:27:37 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Devise::RegistrationsController#new as HTML
+  Rendered devise/registrations/new.html.erb within layouts/application (4.4ms)
+Completed 500 Internal Server Error in 12ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (undefined method `username' for #<User:0x000000058ac078>):
+     5:   
+     6:   <div class="field">
+     7:     <%= f.label :username %><br />
+     8:     <%= f.text_field :username, autofocus:true %>
+     9:   </div>
+    10:   
+    11:   <div class="field">
+  app/views/devise/registrations/new.html.erb:8:in `block in _app_views_devise_registrations_new_html_erb___1483816066544640635_41403040'
+  app/views/devise/registrations/new.html.erb:3:in `_app_views_devise_registrations_new_html_erb___1483816066544640635_41403040'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (11.7ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (5.3ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.0ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (56.8ms)
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.2ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+Migrating to AddUsernameToUsers (20151109120154)
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.2ms)[0m              SELECT sql
+            FROM sqlite_master
+            WHERE name='index_users_on_username' AND type='index'
+            UNION ALL
+            SELECT sql
+            FROM sqlite_temp_master
+            WHERE name='index_users_on_username' AND type='index'
+
+  [1m[36m (0.2ms)[0m  [1m            SELECT sql
+            FROM sqlite_master
+            WHERE name='index_users_on_reset_password_token' AND type='index'
+            UNION ALL
+            SELECT sql
+            FROM sqlite_temp_master
+            WHERE name='index_users_on_reset_password_token' AND type='index'
+[0m
+  [1m[35m (0.2ms)[0m              SELECT sql
+            FROM sqlite_master
+            WHERE name='index_users_on_email' AND type='index'
+            UNION ALL
+            SELECT sql
+            FROM sqlite_temp_master
+            WHERE name='index_users_on_email' AND type='index'
+
+  [1m[36m (0.5ms)[0m  [1mDROP INDEX "index_users_on_username"[0m
+  [1m[35m (34.7ms)[0m  CREATE TEMPORARY TABLE "ausers" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "email" varchar DEFAULT '' NOT NULL, "encrypted_password" varchar DEFAULT '' NOT NULL, "reset_password_token" varchar, "reset_password_sent_at" datetime, "remember_created_at" datetime, "sign_in_count" integer DEFAULT 0 NOT NULL, "current_sign_in_at" datetime, "last_sign_in_at" datetime, "current_sign_in_ip" varchar, "last_sign_in_ip" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL, "username" varchar) 
+  [1m[36m (0.3ms)[0m  [1m            SELECT sql
+            FROM sqlite_master
+            WHERE name='index_users_on_reset_password_token' AND type='index'
+            UNION ALL
+            SELECT sql
+            FROM sqlite_temp_master
+            WHERE name='index_users_on_reset_password_token' AND type='index'
+[0m
+  [1m[35m (0.2ms)[0m              SELECT sql
+            FROM sqlite_master
+            WHERE name='index_users_on_email' AND type='index'
+            UNION ALL
+            SELECT sql
+            FROM sqlite_temp_master
+            WHERE name='index_users_on_email' AND type='index'
+
+  [1m[36m (0.1ms)[0m  [1mselect sqlite_version(*)[0m
+  [1m[35m (0.4ms)[0m  CREATE UNIQUE INDEX "tindex_ausers_on_reset_password_token" ON "ausers" ("reset_password_token")
+  [1m[36m (0.2ms)[0m  [1mCREATE UNIQUE INDEX "tindex_ausers_on_email" ON "ausers" ("email")[0m
+  [1m[35m (0.2ms)[0m  SELECT * FROM "users"
+  [1m[36m (0.6ms)[0m  [1mDROP TABLE "users"[0m
+  [1m[35m (0.3ms)[0m  CREATE TABLE "users" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "email" varchar DEFAULT '' NOT NULL, "encrypted_password" varchar DEFAULT '' NOT NULL, "reset_password_token" varchar, "reset_password_sent_at" datetime, "remember_created_at" datetime, "sign_in_count" integer DEFAULT 0 NOT NULL, "current_sign_in_at" datetime, "last_sign_in_at" datetime, "current_sign_in_ip" varchar, "last_sign_in_ip" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) 
+  [1m[36m (0.1ms)[0m  [1m            SELECT sql
+            FROM sqlite_master
+            WHERE name='tindex_ausers_on_email' AND type='index'
+            UNION ALL
+            SELECT sql
+            FROM sqlite_temp_master
+            WHERE name='tindex_ausers_on_email' AND type='index'
+[0m
+  [1m[35m (0.1ms)[0m              SELECT sql
+            FROM sqlite_master
+            WHERE name='tindex_ausers_on_reset_password_token' AND type='index'
+            UNION ALL
+            SELECT sql
+            FROM sqlite_temp_master
+            WHERE name='tindex_ausers_on_reset_password_token' AND type='index'
+
+  [1m[36m (0.4ms)[0m  [1mCREATE UNIQUE INDEX "index_users_on_email" ON "users" ("email")[0m
+  [1m[35m (0.2ms)[0m              SELECT sql
+            FROM sqlite_master
+            WHERE name='index_users_on_email' AND type='index'
+            UNION ALL
+            SELECT sql
+            FROM sqlite_temp_master
+            WHERE name='index_users_on_email' AND type='index'
+
+  [1m[36m (0.2ms)[0m  [1mCREATE UNIQUE INDEX "index_users_on_reset_password_token" ON "users" ("reset_password_token")[0m
+  [1m[35m (0.2ms)[0m  SELECT * FROM "ausers"
+  [1m[36m (0.3ms)[0m  [1mDROP TABLE "ausers"[0m
+  [1m[35mSQL (0.3ms)[0m  DELETE FROM "schema_migrations" WHERE "schema_migrations"."version" = ?  [["version", "20151109120154"]]
+  [1m[36m (12.2ms)[0m  [1mcommit transaction[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.4ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+  [1m[36m (0.3ms)[0m  [1m            SELECT sql
+            FROM sqlite_master
+            WHERE name='index_users_on_reset_password_token' AND type='index'
+            UNION ALL
+            SELECT sql
+            FROM sqlite_temp_master
+            WHERE name='index_users_on_reset_password_token' AND type='index'
+[0m
+  [1m[35m (0.2ms)[0m              SELECT sql
+            FROM sqlite_master
+            WHERE name='index_users_on_email' AND type='index'
+            UNION ALL
+            SELECT sql
+            FROM sqlite_temp_master
+            WHERE name='index_users_on_email' AND type='index'
+
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Migrating to AddUsernameToUsers (20151109120154)
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.7ms)[0m  [1mALTER TABLE "users" ADD "username" varchar[0m
+  [1m[35m (0.1ms)[0m  select sqlite_version(*)
+  [1m[36m (0.2ms)[0m  [1m            SELECT sql
+            FROM sqlite_master
+            WHERE name='index_users_on_reset_password_token' AND type='index'
+            UNION ALL
+            SELECT sql
+            FROM sqlite_temp_master
+            WHERE name='index_users_on_reset_password_token' AND type='index'
+[0m
+  [1m[35m (0.1ms)[0m              SELECT sql
+            FROM sqlite_master
+            WHERE name='index_users_on_email' AND type='index'
+            UNION ALL
+            SELECT sql
+            FROM sqlite_temp_master
+            WHERE name='index_users_on_email' AND type='index'
+
+  [1m[36m (0.4ms)[0m  [1mCREATE UNIQUE INDEX "index_users_on_username" ON "users" ("username")[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO "schema_migrations" ("version") VALUES (?)  [["version", "20151109120154"]]
+  [1m[36m (15.3ms)[0m  [1mcommit transaction[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.2ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+  [1m[36m (0.2ms)[0m  [1m            SELECT sql
+            FROM sqlite_master
+            WHERE name='index_users_on_username' AND type='index'
+            UNION ALL
+            SELECT sql
+            FROM sqlite_temp_master
+            WHERE name='index_users_on_username' AND type='index'
+[0m
+  [1m[35m (0.2ms)[0m              SELECT sql
+            FROM sqlite_master
+            WHERE name='index_users_on_reset_password_token' AND type='index'
+            UNION ALL
+            SELECT sql
+            FROM sqlite_temp_master
+            WHERE name='index_users_on_reset_password_token' AND type='index'
+
+  [1m[36m (0.2ms)[0m  [1m            SELECT sql
+            FROM sqlite_master
+            WHERE name='index_users_on_email' AND type='index'
+            UNION ALL
+            SELECT sql
+            FROM sqlite_temp_master
+            WHERE name='index_users_on_email' AND type='index'
+[0m
+
+
+Started GET "/users/sign_up" for 116.105.88.90 at 2015-11-10 13:28:54 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Devise::RegistrationsController#new as HTML
+  Rendered devise/shared/_links.html.erb (1.5ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (56.8ms)
+  Rendered layouts/_nav_guest.html.erb (1.2ms)
+  Rendered layouts/_nav.html.erb (4.3ms)
+Completed 200 OK in 650ms (Views: 611.1ms | ActiveRecord: 1.2ms)
+
+
+Started GET "/assets/application.self-e67db36b6b153dc5458de55838ad301937e9ecbb0d8228272917550f68f1256f.css?body=1" for 116.105.88.90 at 2015-11-10 13:28:55 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 116.105.88.90 at 2015-11-10 13:28:55 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/affix.self-d2b642d8fbfc1d7041e2edefd66683ada567a980789dcd6f94fddda0b33408b5.js?body=1" for 116.105.88.90 at 2015-11-10 13:28:55 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/button.self-a6cb16785434acb365ae426aef9f1fce05ed553cae7a965e4471c3da71509175.js?body=1" for 116.105.88.90 at 2015-11-10 13:28:55 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/alert.self-a29e91e8cd3ddaba9bbc466901d53ec2127e9256b9b941905d525a3a716bd1a5.js?body=1" for 116.105.88.90 at 2015-11-10 13:28:55 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/collapse.self-7dc8bfbc2fbfabd2bad62c58ff8ffeaf8f20fb87c7ca6cd35f06d4dc19632587.js?body=1" for 116.105.88.90 at 2015-11-10 13:28:55 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/carousel.self-57eb8422043cf0a85b7a9dc6843916eb0a3e35b419c7798a5eb254b918997631.js?body=1" for 116.105.88.90 at 2015-11-10 13:28:55 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/tab.self-122235057fbd4c6c7da377d59dc58f47b44cb1088a2e38e6ee6ce9d8ac29a26a.js?body=1" for 116.105.88.90 at 2015-11-10 13:28:55 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/dropdown.self-9314126777c6be5443e37ea7f7967d7914d72b3e60449ba50edc967446373059.js?body=1" for 116.105.88.90 at 2015-11-10 13:28:55 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/transition.self-09ff30b1e8a93d1f7728b9855f55d9c9d8d5734c8861e0d8139994e50944572a.js?body=1" for 116.105.88.90 at 2015-11-10 13:28:55 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/scrollspy.self-a155b9d4b2f978905f0326c0f6635e1134fe91c6bfbfcbad079fa24a9fef2b0e.js?body=1" for 116.105.88.90 at 2015-11-10 13:28:55 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/modal.self-72f95ffa1071297725a9ac91989693d56d1abf23f441a47455073b0da2857a5b.js?body=1" for 116.105.88.90 at 2015-11-10 13:28:55 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/tooltip.self-11cf547be953f25f511cec668f6690473fd97b2f65502e4032f4030999a3f0c3.js?body=1" for 116.105.88.90 at 2015-11-10 13:28:55 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/popover.self-77d8e3a2499c1104ef146396a68b82469ee2bdb365199b874694698d10405e9a.js?body=1" for 116.105.88.90 at 2015-11-10 13:28:55 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 116.105.88.90 at 2015-11-10 13:28:55 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 116.105.88.90 at 2015-11-10 13:28:55 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 116.105.88.90 at 2015-11-10 13:28:55 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 116.105.88.90 at 2015-11-10 13:28:55 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 116.105.88.90 at 2015-11-10 13:28:55 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/users/sign_in" for 116.105.88.90 at 2015-11-10 13:29:09 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Devise::SessionsController#new as HTML
+  Rendered devise/shared/_links.html.erb (0.8ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (11.5ms)
+  Rendered layouts/_nav_guest.html.erb (0.2ms)
+  Rendered layouts/_nav.html.erb (1.3ms)
+Completed 200 OK in 302ms (Views: 299.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for 116.105.88.90 at 2015-11-10 13:29:12 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Devise::RegistrationsController#new as HTML
+  Rendered devise/shared/_links.html.erb (0.3ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (4.4ms)
+  Rendered layouts/_nav_guest.html.erb (0.3ms)
+  Rendered layouts/_nav.html.erb (1.8ms)
+Completed 200 OK in 221ms (Views: 218.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for 116.105.88.90 at 2015-11-10 13:29:15 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Devise::SessionsController#new as HTML
+  Rendered devise/shared/_links.html.erb (0.6ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (4.5ms)
+  Rendered layouts/_nav_guest.html.erb (0.6ms)
+  Rendered layouts/_nav.html.erb (2.2ms)
+Completed 200 OK in 201ms (Views: 199.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for 116.105.88.90 at 2015-11-10 13:29:18 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Devise::RegistrationsController#new as HTML
+  Rendered devise/shared/_links.html.erb (0.3ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (168.2ms)
+  Rendered layouts/_nav_guest.html.erb (0.3ms)
+  Rendered layouts/_nav.html.erb (1.4ms)
+Completed 200 OK in 332ms (Views: 330.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/users" for 116.105.88.90 at 2015-11-10 13:33:22 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Devise::RegistrationsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"Ez00oO5bj+//FGeIJWsZWeS1J1jYlnidq0P46GGKHa25KEdOmi5kr5auihTf3DkV87JIbeGr6Uxt2o9nQC9tiA==", "user"=>{"username"=>"username", "email"=>"username@user.name", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]"}, "commit"=>"Sign up"}
+  [1m[35m (0.3ms)[0m  begin transaction
+  [1m[36mUser Exists (0.4ms)[0m  [1mSELECT  1 AS one FROM "users" WHERE "users"."email" = 'username@user.name' LIMIT 1[0m
+  [1m[35mSQL (0.6ms)[0m  INSERT INTO "users" ("username", "email", "encrypted_password", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)  [["username", "username"], ["email", "username@user.name"], ["encrypted_password", "$2a$10$fw1xtStYFOvmiLEB2O1Qqe08NaHm8Xb4VKWNO02pZy54eKLT0rlTG"], ["created_at", "2015-11-10 13:33:22.530875"], ["updated_at", "2015-11-10 13:33:22.530875"]]
+  [1m[36m (11.0ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.7ms)[0m  [1mUPDATE "users" SET "last_sign_in_at" = ?, "current_sign_in_at" = ?, "last_sign_in_ip" = ?, "current_sign_in_ip" = ?, "sign_in_count" = ?, "updated_at" = ? WHERE "users"."id" = ?[0m  [["last_sign_in_at", "2015-11-10 13:33:22.546385"], ["current_sign_in_at", "2015-11-10 13:33:22.546385"], ["last_sign_in_ip", "116.105.88.90"], ["current_sign_in_ip", "116.105.88.90"], ["sign_in_count", 1], ["updated_at", "2015-11-10 13:33:22.548060"], ["id", 1]]
+  [1m[35m (15.7ms)[0m  commit transaction
+Redirected to https://flutter-focoda1.c9users.io/
+Completed 302 Found in 208ms (ActiveRecord: 28.8ms)
+
+
+Started GET "/" for 116.105.88.90 at 2015-11-10 13:33:22 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (0.6ms)
+  [1m[36mUser Load (0.4ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 1]]
+  Rendered layouts/_nav_user.html.erb (1.8ms)
+  Rendered layouts/_nav.html.erb (6.8ms)
+Completed 200 OK in 205ms (Views: 203.7ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/" for 116.105.88.90 at 2015-11-10 13:35:26 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (0.2ms)
+  [1m[35mUser Load (0.3ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1  [["id", 1]]
+  Rendered layouts/_nav_user.html.erb (1.4ms)
+  Rendered layouts/_nav.html.erb (5.8ms)
+Completed 200 OK in 288ms (Views: 286.0ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 116.105.88.90 at 2015-11-10 13:35:27 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-e67db36b6b153dc5458de55838ad301937e9ecbb0d8228272917550f68f1256f.css?body=1" for 116.105.88.90 at 2015-11-10 13:35:27 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/affix.self-d2b642d8fbfc1d7041e2edefd66683ada567a980789dcd6f94fddda0b33408b5.js?body=1" for 116.105.88.90 at 2015-11-10 13:35:27 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/alert.self-a29e91e8cd3ddaba9bbc466901d53ec2127e9256b9b941905d525a3a716bd1a5.js?body=1" for 116.105.88.90 at 2015-11-10 13:35:27 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/button.self-a6cb16785434acb365ae426aef9f1fce05ed553cae7a965e4471c3da71509175.js?body=1" for 116.105.88.90 at 2015-11-10 13:35:27 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/carousel.self-57eb8422043cf0a85b7a9dc6843916eb0a3e35b419c7798a5eb254b918997631.js?body=1" for 116.105.88.90 at 2015-11-10 13:35:27 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/collapse.self-7dc8bfbc2fbfabd2bad62c58ff8ffeaf8f20fb87c7ca6cd35f06d4dc19632587.js?body=1" for 116.105.88.90 at 2015-11-10 13:35:27 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/dropdown.self-9314126777c6be5443e37ea7f7967d7914d72b3e60449ba50edc967446373059.js?body=1" for 116.105.88.90 at 2015-11-10 13:35:27 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/tab.self-122235057fbd4c6c7da377d59dc58f47b44cb1088a2e38e6ee6ce9d8ac29a26a.js?body=1" for 116.105.88.90 at 2015-11-10 13:35:27 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/transition.self-09ff30b1e8a93d1f7728b9855f55d9c9d8d5734c8861e0d8139994e50944572a.js?body=1" for 116.105.88.90 at 2015-11-10 13:35:27 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/scrollspy.self-a155b9d4b2f978905f0326c0f6635e1134fe91c6bfbfcbad079fa24a9fef2b0e.js?body=1" for 116.105.88.90 at 2015-11-10 13:35:27 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/modal.self-72f95ffa1071297725a9ac91989693d56d1abf23f441a47455073b0da2857a5b.js?body=1" for 116.105.88.90 at 2015-11-10 13:35:27 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/tooltip.self-11cf547be953f25f511cec668f6690473fd97b2f65502e4032f4030999a3f0c3.js?body=1" for 116.105.88.90 at 2015-11-10 13:35:27 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/popover.self-77d8e3a2499c1104ef146396a68b82469ee2bdb365199b874694698d10405e9a.js?body=1" for 116.105.88.90 at 2015-11-10 13:35:28 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 116.105.88.90 at 2015-11-10 13:35:28 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 116.105.88.90 at 2015-11-10 13:35:28 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 116.105.88.90 at 2015-11-10 13:35:28 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 116.105.88.90 at 2015-11-10 13:35:28 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 116.105.88.90 at 2015-11-10 13:35:28 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/" for 116.105.88.90 at 2015-11-10 13:37:10 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  [1m[36mUser Load (0.3ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 1]]
+  Rendered layouts/_nav_user.html.erb (0.7ms)
+  Rendered layouts/_nav.html.erb (22.0ms)
+Completed 200 OK in 244ms (Views: 237.7ms | ActiveRecord: 1.3ms)
+
+
+Started GET "/assets/application.self-e67db36b6b153dc5458de55838ad301937e9ecbb0d8228272917550f68f1256f.css?body=1" for 116.105.88.90 at 2015-11-10 13:37:11 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 116.105.88.90 at 2015-11-10 13:37:11 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/affix.self-d2b642d8fbfc1d7041e2edefd66683ada567a980789dcd6f94fddda0b33408b5.js?body=1" for 116.105.88.90 at 2015-11-10 13:37:11 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/alert.self-a29e91e8cd3ddaba9bbc466901d53ec2127e9256b9b941905d525a3a716bd1a5.js?body=1" for 116.105.88.90 at 2015-11-10 13:37:11 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/button.self-a6cb16785434acb365ae426aef9f1fce05ed553cae7a965e4471c3da71509175.js?body=1" for 116.105.88.90 at 2015-11-10 13:37:11 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/carousel.self-57eb8422043cf0a85b7a9dc6843916eb0a3e35b419c7798a5eb254b918997631.js?body=1" for 116.105.88.90 at 2015-11-10 13:37:11 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/collapse.self-7dc8bfbc2fbfabd2bad62c58ff8ffeaf8f20fb87c7ca6cd35f06d4dc19632587.js?body=1" for 116.105.88.90 at 2015-11-10 13:37:11 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/dropdown.self-9314126777c6be5443e37ea7f7967d7914d72b3e60449ba50edc967446373059.js?body=1" for 116.105.88.90 at 2015-11-10 13:37:11 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/tab.self-122235057fbd4c6c7da377d59dc58f47b44cb1088a2e38e6ee6ce9d8ac29a26a.js?body=1" for 116.105.88.90 at 2015-11-10 13:37:11 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/transition.self-09ff30b1e8a93d1f7728b9855f55d9c9d8d5734c8861e0d8139994e50944572a.js?body=1" for 116.105.88.90 at 2015-11-10 13:37:11 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/scrollspy.self-a155b9d4b2f978905f0326c0f6635e1134fe91c6bfbfcbad079fa24a9fef2b0e.js?body=1" for 116.105.88.90 at 2015-11-10 13:37:11 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/modal.self-72f95ffa1071297725a9ac91989693d56d1abf23f441a47455073b0da2857a5b.js?body=1" for 116.105.88.90 at 2015-11-10 13:37:11 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/tooltip.self-11cf547be953f25f511cec668f6690473fd97b2f65502e4032f4030999a3f0c3.js?body=1" for 116.105.88.90 at 2015-11-10 13:37:11 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/popover.self-77d8e3a2499c1104ef146396a68b82469ee2bdb365199b874694698d10405e9a.js?body=1" for 116.105.88.90 at 2015-11-10 13:37:11 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 116.105.88.90 at 2015-11-10 13:37:11 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 116.105.88.90 at 2015-11-10 13:37:11 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 116.105.88.90 at 2015-11-10 13:37:11 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 116.105.88.90 at 2015-11-10 13:37:11 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 116.105.88.90 at 2015-11-10 13:37:11 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/user/joe" for 116.105.88.90 at 2015-11-10 13:41:09 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#profile as HTML
+  Parameters: {"id"=>"joe"}
+  Rendered pages/profile.html.erb within layouts/application (0.8ms)
+  [1m[35mUser Load (0.3ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1  [["id", 1]]
+  Rendered layouts/_nav_user.html.erb (0.7ms)
+  Rendered layouts/_nav.html.erb (22.1ms)
+Completed 200 OK in 218ms (Views: 212.4ms | ActiveRecord: 1.2ms)
+
+
+Started GET "/user/toan" for 116.105.88.90 at 2015-11-10 13:41:17 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#profile as HTML
+  Parameters: {"id"=>"toan"}
+  Rendered pages/profile.html.erb within layouts/application (0.1ms)
+  [1m[36mUser Load (0.3ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 1]]
+  Rendered layouts/_nav_user.html.erb (0.4ms)
+  Rendered layouts/_nav.html.erb (3.6ms)
+Completed 200 OK in 359ms (Views: 357.2ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/user/toan" for 116.105.88.90 at 2015-11-10 13:44:11 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#profile as HTML
+  Parameters: {"id"=>"toan"}
+  [1m[35mUser Load (0.5ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."username" = ? LIMIT 1  [["username", "toan"]]
+Redirected to https://flutter-focoda1.c9users.io/
+Completed 302 Found in 103ms (ActiveRecord: 1.3ms)
+
+
+Started GET "/" for 116.105.88.90 at 2015-11-10 13:44:12 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  [1m[36mUser Load (0.3ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 1]]
+  Rendered layouts/_nav_user.html.erb (0.7ms)
+  Rendered layouts/_nav.html.erb (19.4ms)
+Completed 200 OK in 240ms (Views: 238.3ms | ActiveRecord: 0.9ms)
+
+
+Started GET "/assets/application.self-e67db36b6b153dc5458de55838ad301937e9ecbb0d8228272917550f68f1256f.css?body=1" for 116.105.88.90 at 2015-11-10 13:44:12 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 116.105.88.90 at 2015-11-10 13:44:13 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/affix.self-d2b642d8fbfc1d7041e2edefd66683ada567a980789dcd6f94fddda0b33408b5.js?body=1" for 116.105.88.90 at 2015-11-10 13:44:13 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/button.self-a6cb16785434acb365ae426aef9f1fce05ed553cae7a965e4471c3da71509175.js?body=1" for 116.105.88.90 at 2015-11-10 13:44:13 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/alert.self-a29e91e8cd3ddaba9bbc466901d53ec2127e9256b9b941905d525a3a716bd1a5.js?body=1" for 116.105.88.90 at 2015-11-10 13:44:13 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/carousel.self-57eb8422043cf0a85b7a9dc6843916eb0a3e35b419c7798a5eb254b918997631.js?body=1" for 116.105.88.90 at 2015-11-10 13:44:13 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/collapse.self-7dc8bfbc2fbfabd2bad62c58ff8ffeaf8f20fb87c7ca6cd35f06d4dc19632587.js?body=1" for 116.105.88.90 at 2015-11-10 13:44:13 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/dropdown.self-9314126777c6be5443e37ea7f7967d7914d72b3e60449ba50edc967446373059.js?body=1" for 116.105.88.90 at 2015-11-10 13:44:13 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/tab.self-122235057fbd4c6c7da377d59dc58f47b44cb1088a2e38e6ee6ce9d8ac29a26a.js?body=1" for 116.105.88.90 at 2015-11-10 13:44:13 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/scrollspy.self-a155b9d4b2f978905f0326c0f6635e1134fe91c6bfbfcbad079fa24a9fef2b0e.js?body=1" for 116.105.88.90 at 2015-11-10 13:44:13 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/transition.self-09ff30b1e8a93d1f7728b9855f55d9c9d8d5734c8861e0d8139994e50944572a.js?body=1" for 116.105.88.90 at 2015-11-10 13:44:13 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/modal.self-72f95ffa1071297725a9ac91989693d56d1abf23f441a47455073b0da2857a5b.js?body=1" for 116.105.88.90 at 2015-11-10 13:44:13 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/tooltip.self-11cf547be953f25f511cec668f6690473fd97b2f65502e4032f4030999a3f0c3.js?body=1" for 116.105.88.90 at 2015-11-10 13:44:13 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/popover.self-77d8e3a2499c1104ef146396a68b82469ee2bdb365199b874694698d10405e9a.js?body=1" for 116.105.88.90 at 2015-11-10 13:44:13 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 116.105.88.90 at 2015-11-10 13:44:13 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 116.105.88.90 at 2015-11-10 13:44:13 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 116.105.88.90 at 2015-11-10 13:44:13 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 116.105.88.90 at 2015-11-10 13:44:13 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 116.105.88.90 at 2015-11-10 13:44:13 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/user/username" for 116.105.88.90 at 2015-11-10 13:44:46 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#profile as HTML
+  Parameters: {"id"=>"username"}
+  [1m[35mUser Load (0.3ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."username" = ? LIMIT 1  [["username", "username"]]
+  Rendered pages/profile.html.erb within layouts/application (0.1ms)
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 1]]
+  Rendered layouts/_nav_user.html.erb (0.5ms)
+  Rendered layouts/_nav.html.erb (3.4ms)
+Completed 200 OK in 261ms (Views: 259.2ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/user/usernam" for 116.105.88.90 at 2015-11-10 13:44:53 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#profile as HTML
+  Parameters: {"id"=>"usernam"}
+  [1m[35mUser Load (0.2ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."username" = ? LIMIT 1  [["username", "usernam"]]
+Redirected to https://flutter-focoda1.c9users.io/
+Completed 302 Found in 2ms (ActiveRecord: 0.2ms)
+
+
+Started GET "/" for 116.105.88.90 at 2015-11-10 13:44:53 +0000
+Cannot render console from 116.105.88.90! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (0.0ms)
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 1]]
+  Rendered layouts/_nav_user.html.erb (0.5ms)
+  Rendered layouts/_nav.html.erb (3.3ms)
+Completed 200 OK in 192ms (Views: 191.2ms | ActiveRecord: 0.2ms)
